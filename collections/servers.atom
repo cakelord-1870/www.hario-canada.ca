@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hario-canada.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hario-canada.ca/collections/servers.atom"/>
+  <title>Hario Canada</title>
+  <updated>2021-08-19T12:44:57-06:00</updated>
+  <author>
+    <name>Hario Canada</name>
+  </author>
+  <entry>
+    <id>https://www.hario-canada.ca/products/6909533946045</id>
+    <published>2021-08-19T12:44:57-06:00</published>
+    <updated>2021-08-19T12:44:57-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-beaker-server-600ml"/>
+    <title>Hario Beaker Server (600ml)</title>
+    <s:type>Decanters</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_beaker_server_600.jpg?v=1629398794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Decanters<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Make more chemistry with more people!</p>
+<p>When your coffee experiments involve two (or more) people, make sure you have enough to give everyone a taste.</p>
+<p>With a substantial 600 ml capacity and a wide, flat handle so you don't lose your grip, this big beaker will help maintain a steady, controlled pour. The guide marks also make it a great measuring cup.</p><ul>
+<li>Capacity: 600 ml</li>
+<li>Width: 130 mm</li>
+<li>Depth: 90 mm</li>
+<li>Height: 152 mm</li>
+<li>made in Japan from heatproof glass</li>
+<li>top-rack dishwasher safe</li>
+</ul>
+<p><span style="display: none;">beakers hari hair cone hairo lab beeker chemistry</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_Beakers</s:tag>
+    <s:tag>vt_Servers</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/6909533946045</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>BV-600</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/6909519397053</id>
+    <published>2021-08-19T12:37:50-06:00</published>
+    <updated>2021-08-19T12:37:50-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-beaker-server-300ml"/>
+    <title>Hario Beaker Server (300ml)</title>
+    <s:type>Decanters</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_beaker_server_300.jpg?v=1629398588"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Decanters<br>
+        <strong>Price: </strong>
+            27.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>No need to rest your chemistry!</p>
+<p>Even without Dr. Honeydew, you can still bring the lab home with this beaker to serve your coffee.</p>
+<p>The wide, flat handle is easy to grip for a steady, controlled pour. The guide marks also make it a great measuring cup.</p>
+<ul>
+<li>Capacity: 300 ml (10.14 oz)</li>
+<li>Width: 125 mm</li>
+<li>Depth: 89 mm</li>
+<li>Height: 105 mm</li>
+<li>Heatproof glass</li>
+<li>Top-rack dishwasher safe</li>
+<li>Microwave safe</li>
+<li>Made in Japan</li>
+</ul>
+<p><span style="display: none;">beakers hari hair cone hairo lab beeker chemistry</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_Beakers</s:tag>
+    <s:tag>vt_Servers</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/6909519397053</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.50</s:price>
+      <s:sku>BV-300</s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/6208878805181</id>
+    <published>2021-02-06T10:12:27-07:00</published>
+    <updated>2021-02-06T10:12:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-v60-03-insulated-stainless-steel-server-white"/>
+    <title>Hario V60-03 Insulated Stainless Steel Server White</title>
+    <s:type>Decanters</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/vhs-80w-1.jpg?v=1612631550"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Decanters<br>
+        <strong>Price: </strong>
+            79.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You're hard at work, fuelled only by delicious coffee that you brewed to keep you on point. Suddenly, you go to take a drink but your cup is empty so you pick up your decanter to refill your cup.</p>
+<p>But disaster! The coffee has gone cold!</p>
+<p>Concentration broken, you have to break away to brew more, only to never recover your train of thought. However, that was a 2016 problem.</p>
+In 2017, Hario has introduced an insulated stainless steel coffee server with a super sleek modern design.
+<p>This 750ml, vacuum sealed, double wall beauty will allow you to serve, and enjoy, your favourite coffee for longer, ensuring your concentration never need be broken.</p>
+<p>You can even brew directly in to the carafe from your beloved V60 dripper.</p>
+<ul>
+<li>Practical Capacity: 750ml</li>
+<li>Dual Wall Stainless Steel Body</li>
+<li>Polypropylene Spout, Handle and Lid</li>
+<li>ABS Resin Lever</li>
+<li>Silicone Gasket</li>
+<li>Made in China</li>
+</ul>
+<p>Cleaning the Server's Exterior:</p>
+<ul>
+<li>Soak a soft cloth in water with dish detergent</li>
+<li>Wring out the cloth firmly</li>
+<li>Wipe off any stains</li>
+<li>Dry with a soft cloth</li>
+<li>Do not use steel scrub brushes, etc.</li>
+</ul>
+<p>Cleaning the Lid:</p>
+<ul>
+<li>Remove the seal</li>
+<li>Wash the lid with a soft sponge that has soaked in hot water with dish detergent</li>
+<li>Rinse thoroughly in clean water until no detergent remains</li>
+<li>Dry with a soft cloth</li>
+</ul>
+<p>Cleaning the Server's Interior:</p>
+<ul>
+<li>Wash with a long-handled sponge that has soaked in hot water with dish detergent</li>
+<li>Rinse thoroughly in clean water until no detergent remains</li>
+<li>Dry thoroughly</li>
+<li>An odour may occur if a drink or residue remains inside for a prolonged period, if this occurs, clean with an enzyme-based bleach before rinsing thoroughly and allowing it to dry completely with the lid off</li>
+</ul>
+<p><span style="visibility: hidden;">V60 carafe decanter dewar flask thermos thermal insulation insulate doublewall double-wall large </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_Range Servers</s:tag>
+    <s:tag>vt_Servers</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/6208878805181</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku>VHS-80W</s:sku>
+      <s:grams>660</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/3519905267795</id>
+    <published>2019-04-23T16:27:55-06:00</published>
+    <updated>2019-04-23T16:27:55-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-v60-03-coffee-server"/>
+    <title>Hario V60-03 Coffee Server</title>
+    <s:type>Decanters</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/vcs-03b-edit.jpg?v=1556058478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Decanters<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You want a great value server that wouldn't look out of place in a retro diner? Well this little fella is your man! To keep the server sealed, it comes with a black plastic lid that keeps heat in and prevent spills, and it has a 1 litre functional capacity; enough to hold coffee warmly for 3-4 people.</p>
+<ul>
+<li>Practical Capacity: 1000ml</li>
+<li>Heatproof Glass</li>
+<li>Polypropylene Lid and Handle</li>
+<li>Silicone Rubber Seal</li>
+<li>Microwave Safe</li>
+<li>Dishwasher Safe</li>
+<li>Made in Japan</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_Range Servers</s:tag>
+    <s:tag>vt_Servers</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/3519905267795</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>VCS-03B</s:sku>
+      <s:grams>390</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1330369953875</id>
+    <published>2018-05-07T15:10:13-06:00</published>
+    <updated>2018-05-07T15:10:13-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-heatproof-decanter"/>
+    <title>Hario Heatproof Decanter</title>
+    <s:type>Decanters</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hcd-2t-resize.jpg?v=1525727415"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Decanters<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>If, like us, you don't always want to make a vat of coffee (usually 8oz, but sometimes up to 12oz) this decanter is ideal.</p>
+<p>It's a great quality attractive little vessel that can be used for any type of hot or cold liquid - but it designed to be used specifically with Hario V60 brewers. The brewer simply rests on top of the heat resistant decanter and as you pour, it will slowly fill with delicious coffee. You can then decant as you require.</p>
+<ul>
+<li>Dishwasher Safe</li>
+<li>Microwave Safe</li>
+<li>Capacity: 400ml</li>
+<li>Heatproof Glass</li>
+<li>Made in Japan</li>
+</ul>
+<p><span style="visibility: hidden;">carafes hari hair haro hario pour ove v60 hairio v60 02 hair v60 02</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_Decanters</s:tag>
+    <s:tag>vt_Servers</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1330369953875</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku>HCD-2T</s:sku>
+      <s:grams>238</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/11738888844</id>
+    <published>2017-09-28T14:28:23-06:00</published>
+    <updated>2017-09-28T14:28:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-v60-02-step-server"/>
+    <title>Hario V60-02 Step Server</title>
+    <s:type>Decanters</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/step_server_black_vhs-60b_main.jpg?v=1506630504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Decanters<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A sleek modern design, insulated stainless steel coffee server with vacuum double structure, so you can serve and enjoy your coffee for longer. Perfect with a V60 dripper.</p>
+<p>Capacity: 600ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_Range Servers</s:tag>
+    <s:tag>vt_Servers</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/11738888844</id>
+      <title>Black</title>
+      <s:price currency="CAD">69.00</s:price>
+      <s:sku>VHS-60B</s:sku>
+      <s:grams>306</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/11738888844</id>
+      <title>White</title>
+      <s:price currency="CAD">69.00</s:price>
+      <s:sku>VHS-60W</s:sku>
+      <s:grams>306</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/11167372876</id>
+    <published>2017-06-30T14:42:28-06:00</published>
+    <updated>2017-06-30T14:42:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-glass-server-700ml"/>
+    <title>Hario Glass Server 700ml</title>
+    <s:type>Decanters</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/gs-70-t_glass_server.jpg?v=1498855350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Decanters<br>
+        <strong>Price: </strong>
+            62.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Heat-resistant 700ml glass server with silicon sealed lid</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_Range Servers</s:tag>
+    <s:tag>vt_Servers</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/11167372876</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>GS-70-T</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/11167304396</id>
+    <published>2017-06-30T14:40:06-06:00</published>
+    <updated>2017-06-30T14:40:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-v60-03-stainless-server-black"/>
+    <title>Hario V60-03 Stainless Server Black</title>
+    <s:type>Decanters</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/step_server_80_black_vhs-80b.jpg?v=1498855207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Decanters<br>
+        <strong>Price: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A sleek modern design, insulated stainless steel coffee server with vacuum double structure, so you can serve and enjoy your coffee for longer. Perfect with a V60 dripper.</p>
+<p>Capacity: 800ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_Range Servers</s:tag>
+    <s:tag>vt_Servers</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/11167304396</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">89.00</s:price>
+      <s:sku>VHS-80B</s:sku>
+      <s:grams>660</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1890673859</id>
+    <published>2015-07-30T06:24:50-06:00</published>
+    <updated>2015-07-30T06:24:50-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-v60-03-range-server"/>
+    <title>Hario V60-03 Range Server</title>
+    <s:type>Decanters</s:type>
+    <s:vendor>Hario Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_range_03.jpg?v=1438749327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario Canada<br>
+        <strong>Type: </strong>Decanters<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">We're not sure what the "Range" in range server means, but what we are sure of is that if you want a great little server to go with your V60, then this is a gem.
+To keep the server sealed, it comes with a clear glass lid with a rubber seal to keep heat in and prevent spills, and it has a 800ml capacity; enough to hold coffee warmly for 3 or 4 people.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_Range Servers</s:tag>
+    <s:tag>vt_Servers</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1890673859</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>XGS-80TB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1890669571</id>
+    <published>2015-07-30T06:24:00-06:00</published>
+    <updated>2015-07-30T06:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-v60-01-olive-wood-server"/>
+    <title>Hario V60-01 Olive Wood Server</title>
+    <s:type>Decanters</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_olive_server_01.jpg?v=1449867464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Decanters<br>
+        <strong>Price: </strong>
+            76.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Take the Hario V60 Range Server, throw it at a olive wood tree (figuratively, not literally), add a wood carving Samurai, and this is what you get. The highest quality Japanese glass, a handcrafted olive wood handle, and simple functionality provide you with one of the most drool-worthy coffee servers available.</p>
+<p>An olive wood lid is provided keep heat in and prevent spills, and it has a 400ml capacity; enough to hold coffee warmly for 1 or 2 people.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_Range Servers</s:tag>
+    <s:tag>vt_Servers</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1890669571</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">76.00</s:price>
+      <s:sku>VCWN-40-OV</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1890655555</id>
+    <published>2015-07-30T06:23:47-06:00</published>
+    <updated>2015-07-30T06:23:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-conical-beaker-300ml"/>
+    <title>Hario Conical Beaker 300ml</title>
+    <s:type>Decanters</s:type>
+    <s:vendor>Hario Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/HarioConicalBeaker300ml_608x704_e8869e23-6607-4703-93f2-ac54c4117d98.jpg?v=1628613213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario Canada<br>
+        <strong>Type: </strong>Decanters<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Yes, you read it right. Hario makes Labware. And Labware crossed with Hario provides you with the coolest way to decant or serve your coffee.
+
+
+
+This 300ml conical beaker is made to the highest standards and looks amazing - as well as achieving an excellence in chemical durability and heatproof quality (apparently).
+
+
+
+Another useful little feature are the 50ml markings, all the way up to 300ml. This makes it perfect for mixing exact cold brew ratios with milk or water!
+
+
+
+Oh, and if the feeling takes you, you can also test it in a laboratory setting.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_Beakers</s:tag>
+    <s:tag>vt_Servers</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1890655555</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>CB-300 SCI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1890630787</id>
+    <published>2015-07-30T06:22:36-06:00</published>
+    <updated>2015-07-30T06:22:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-v60-02-coffee-server"/>
+    <title>Hario V60-02 Coffee Server</title>
+    <s:type>Decanters</s:type>
+    <s:vendor>Hario Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_diner_server_02.jpg?v=1438749317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario Canada<br>
+        <strong>Type: </strong>Decanters<br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">You want a great value server that wouldn't look out of place in a retro diner? Well this little fella is your man!
+To keep the server sealed, it comes with a black lastic lid to keep heat in and prevent spills, and it has a 700ml capacity; enough to hold coffee warmly for 2-3 people.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_Range Servers</s:tag>
+    <s:tag>vt_Servers</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1890630787</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku>VCS-02B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1890618179</id>
+    <published>2015-07-30T06:21:51-06:00</published>
+    <updated>2015-07-30T06:21:51-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-tokkuri-decanter"/>
+    <title>Hario Tokkuri Decanter</title>
+    <s:type>Decanters</s:type>
+    <s:vendor>Hario Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_tokkuri_decanter1.jpg?v=1438749309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario Canada<br>
+        <strong>Type: </strong>Decanters<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The 400ml Hario Tokkuri Decanter is built with heat resistant glass to minimize heat transfer. It is also microwave and dishwasher safe for practical everyday kitchen use.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_Decanters</s:tag>
+    <s:tag>vt_Servers</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1890618179</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>GT-2T</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1890617219</id>
+    <published>2015-07-30T06:21:47-06:00</published>
+    <updated>2015-07-30T06:21:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-v60-01-coffee-server"/>
+    <title>Hario V60-01 Coffee Server</title>
+    <s:type>Decanters</s:type>
+    <s:vendor>Hario Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_diner_server_01.jpg?v=1438749305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario Canada<br>
+        <strong>Type: </strong>Decanters<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">You want a great value server that wouldn't look out of place in a retro diner? Well this little fella is your man!
+To keep the server sealed, it comes with a black lastic lid to keep heat in and prevent spills, and it has a 450ml capacity; enough to hold coffee warmly for 1 or 2 people.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_Range Servers</s:tag>
+    <s:tag>vt_Servers</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1890617219</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>VCS-01B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1890611971</id>
+    <published>2015-07-30T06:21:29-06:00</published>
+    <updated>2015-07-30T06:21:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-conical-beaker-500ml"/>
+    <title>Hario Conical Beaker 500ml</title>
+    <s:type>Decanters</s:type>
+    <s:vendor>Hario Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/HarioConicalBeaker500ml_704x704_3e4688c2-2b71-46a8-acd6-3b14ec4191d8.jpg?v=1628613152"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario Canada<br>
+        <strong>Type: </strong>Decanters<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Yes, you read it right. Hario makes Labware. And Labware crossed with Hario provides you with the coolest way to decant or serve your coffee.
+
+
+
+This 500ml conical beaker is made to the highest standards and looks amazing - as well as achieving an excellence in chemical durability and heatproof quality (apparently).
+
+
+
+Another useful little feature are the 50ml markings, all the way up to 500ml. This makes it perfect for mixing exact cold brew ratios with milk or water!
+
+
+
+Oh, and if the feeling takes you, you can also test it in a laboratory setting.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_Beakers</s:tag>
+    <s:tag>vt_Servers</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1890611971</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>CB-500 SCI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1890610627</id>
+    <published>2015-07-30T06:21:25-06:00</published>
+    <updated>2015-07-30T06:21:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-v60-02-range-server"/>
+    <title>Hario V60-02 Range Server</title>
+    <s:type>Decanters</s:type>
+    <s:vendor>Hario Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_v60_range_server.jpg?v=1438258887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario Canada<br>
+        <strong>Type: </strong>Decanters<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">We're not sure what the "Range" in range server means, but what we are sure of is that if you want a great little server to go with your V60, then this is a gem.<br><br>To keep the server sealed, it comes with a clear glass lid with a rubber seal to keep heat in and prevent spills, and it has a 600ml capacity; enough to hold coffee warmly for 2 or 3 people.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_Range Servers</s:tag>
+    <s:tag>vt_Servers</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1890610627</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>XGS-60TB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1890614019</id>
+    <published>2015-07-30T06:21:00-06:00</published>
+    <updated>2015-07-30T06:21:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-v60-02-olive-wood-server"/>
+    <title>Hario V60-02 Olive Wood Server</title>
+    <s:type>Decanters</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_olive_server_02.jpg?v=1449867488"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Decanters<br>
+        <strong>Price: </strong>
+            85.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Take the Hario V60 Range Server, throw it at a olive wood tree (figuratively, not literally), add a wood carving Samurai, and this is what you get. The highest quality Japanese glass, a handcrafted olive wood handle, and simple functionality provide you with one of the most drool-worthy coffee servers available.</p>
+<p>An olive wood lid is provided keep heat in and prevent spills, and it has a 600ml capacity; enough to hold coffee warmly for 2 or 3 people.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_Range Servers</s:tag>
+    <s:tag>vt_Servers</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1890614019</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">85.00</s:price>
+      <s:sku>VCWN-60-OV</s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1890576387</id>
+    <published>2015-07-30T06:19:30-06:00</published>
+    <updated>2015-07-30T06:19:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-v60-01-range-server"/>
+    <title>Hario V60-01 Range Server</title>
+    <s:type>Decanters</s:type>
+    <s:vendor>Hario Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_rangeserver_01.jpg?v=1438749288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario Canada<br>
+        <strong>Type: </strong>Decanters<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">We're not sure what the "Range" in range server means, but what we are sure of is that if you want a great little server to go with your V60, then this is a gem.
+
+To keep the server sealed, it comes with a clear glass lid with a rubber seal to keep heat in and prevent spills, and it has a 360ml capacity; enough to hold coffee warmly for 1 or 2 people.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_Range Servers</s:tag>
+    <s:tag>vt_Servers</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1890576387</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.00</s:price>
+      <s:sku>XGS-36-EX-TB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

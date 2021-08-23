@@ -1,0 +1,1033 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hario-canada.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hario-canada.ca/collections/parts.atom"/>
+  <title>Hario Canada</title>
+  <updated>2021-02-06T10:14:02-07:00</updated>
+  <author>
+    <name>Hario Canada</name>
+  </author>
+  <entry>
+    <id>https://www.hario-canada.ca/products/6208882868413</id>
+    <published>2021-02-06T10:14:02-07:00</published>
+    <updated>2021-02-06T10:14:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-mizudashi-replacement-basket-filter"/>
+    <title>Hario Mizudashi Replacement Basket Filter</title>
+    <s:type>Parts</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_replacement_filter_in_bottle_700x700_8f9e2c66-d38b-4808-942b-8d48b7f2c5fd.jpg?v=1612631645"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A replacement basket filter for the Hario Mizudashi Cold Brewer. Just in case you ripped yours or did something nefarious with it.</p>
+<ul>
+<li>Available in Black or Chocolate Brown</li>
+<li>Polypropylene Holder</li>
+<li>Polyester Filter</li>
+<li>Made in Japan</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/6208882868413</id>
+      <title>Chocolate Brown</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>S-MCPN-14CBR</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/6208880345277</id>
+    <published>2021-02-06T10:13:03-07:00</published>
+    <updated>2021-02-06T10:13:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-slim-replacement-washer"/>
+    <title>Hario Slim Replacement Washer</title>
+    <s:type>Parts</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_mss-1_washer.jpg?v=1612631586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A replacement washer for your Hario Slim Coffee Grinder in case your last one went rolling off into the distance somewhere.</p>
+<ul>
+<li>Hario Spare Part</li>
+<li>Fits Hario Slim MSS-1 Coffee Grinder</li>
+</ul>
+<ol>
+<li>Hooray for Your Spare Washer!</li>
+<li>Install Your Washer</li>
+<li>Get Grinding!</li>
+</ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Grinder Parts</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/6208880345277</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku>W-MSS-1B</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/6208877691069</id>
+    <published>2021-02-06T10:12:07-07:00</published>
+    <updated>2021-02-06T10:12:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-slim-replacement-shaft"/>
+    <title>Hario Slim Replacement Shaft</title>
+    <s:type>Parts</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_slim_replacement_shaft.jpg?v=1612631530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+<p>A replacement metal shaft for the Hario Slim Coffee Grinder</p>
+<p>Fits Hario Slim Coffee Grinder</p>
+<p><span style="visibility: hidden;">part spare fix </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/6208877691069</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>SH-MSS</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/6208876544189</id>
+    <published>2021-02-06T10:11:43-07:00</published>
+    <updated>2021-02-06T10:11:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-lid-for-mss-1b"/>
+    <title>Hario Lid for MSS-1B</title>
+    <s:type>Parts</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/6208876544189</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>MSS-1B-L</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/6208876150973</id>
+    <published>2021-02-06T10:11:35-07:00</published>
+    <updated>2021-02-06T10:11:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-slim-inner-burr"/>
+    <title>Hario Slim Inner Burr</title>
+    <s:type>Parts</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_slim_inner_burr_1.jpg?v=1612631498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>So a rock got in your Hario Slim grinder and broke the inner burr. Don't worry! This replacement Inner Burr will get your Hario Slim Hand Coffee Grinder back to what it once was and get you back to grinding your coffee fresh.</p>
+<ul>
+<li>Sharp Ceramic Inner Burr</li>
+<li>Made in China</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Parts</s:tag>
+    <s:tag>vt_Parts</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/6208876150973</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>MSS-1B-IB</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/6208874348733</id>
+    <published>2021-02-06T10:10:48-07:00</published>
+    <updated>2021-02-06T10:10:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-slim-replacement-handle"/>
+    <title>Hario Slim Replacement Handle</title>
+    <s:type>Parts</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_slim_replacement_handle.jpg?v=1612631451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It's so easy to misplace the handle from your Slim grinder while you're rushing to pack up the camping gear before the rain gets any worse. This spare or replacement handle will help keep you grinding fresh with your Hario Slim Hand Coffee Grinder.</p>
+<ul>
+<li>Polypropylene Grip and Centre Cap</li>
+<li>Stainless Steel Handle</li>
+<li>Made in China</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Grinder Parts</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/6208874348733</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>H-MSS-1</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/6208873365693</id>
+    <published>2021-02-06T10:10:28-07:00</published>
+    <updated>2021-02-06T10:10:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-tca-2-syphon-upper-bowl"/>
+    <title>Hario TCA-2 Syphon Upper Bowl</title>
+    <s:type>Parts</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/BU-TCA-2_1512x_c60b07f2-4d0d-4c4c-ab9e-0d65242533be.jpg?v=1614638856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+<p>A replacement glass upper bowl for the Hario TCA-2 Syphon.</p>
+<ul>
+<li>Fits the Hario 2-Cup Technica Syphon (TCA-2)</li>
+<li>Heatproof Glass</li>
+<li>Made in Japan</li>
+</ul>
+<p><span style="visibility: hidden;">spare part vacuum pot vaccum vacum brewer </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_hario</s:tag>
+    <s:tag>typ_Hario Parts</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/6208873365693</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>BU-TCA-2</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/6208873201853</id>
+    <published>2021-02-06T10:10:22-07:00</published>
+    <updated>2021-02-06T10:10:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-upper-bowl-for-sca-5"/>
+    <title>Hario Upper Bowl for SCA-5</title>
+    <s:type>Parts</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/bu-sca-5-02.jpg?v=1612631425"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+<p>A replacement glass upper bowl for the Hario Coffee Syphon Sommelier.</p>
+<ul>
+<li>Fits the Hario Coffee Syphon Sommelier (SCA-5)</li>
+<li>Heatproof Glass</li>
+<li>Made in Japan</li>
+</ul>
+<p><span style="visibility: hidden;">spare part vacuum pot vaccum vacum brewer </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/6208873201853</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku>BU-SCA-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/6208872906941</id>
+    <published>2021-02-06T10:10:17-07:00</published>
+    <updated>2021-02-06T10:10:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-tca-2-syphon-lower-bowl"/>
+    <title>Hario TCA-2 Syphon Lower Bowl</title>
+    <s:type>Parts</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/tca2_lower_bowl_hario.jpg?v=1612631420"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A replacement glass lower bowl for the Hario TCA-2 Syphon.</p>
+<ul>
+<li>Fits the Hario 2-Cup Technica Syphon (TCA-2)</li>
+<li>Heatproof Glass</li>
+<li>Made in Japan</li>
+</ul>
+<p><span style="visibility: hidden;">spare part vacuum pot vaccum vacum brewer </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_hario</s:tag>
+    <s:tag>typ_Hario Parts</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/6208872906941</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.00</s:price>
+      <s:sku>BL-TCA-2</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/4416044400723</id>
+    <published>2020-03-24T17:22:56-06:00</published>
+    <updated>2020-03-24T17:22:56-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-skerton-lid-for-glass-jar"/>
+    <title>Hario Skerton Lid for Glass Jar</title>
+    <s:type>Parts</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/f-mscs-tb_1024x1024_2x_6965ad87-0402-4694-a90b-d573d85074d3.jpg?v=1585092179"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Get back to taking your freshly ground coffee with you with this lid for the glass bowl of your Skerton hand grinder.</p>
+<ul>
+<li>Polypropylene Lid</li>
+<li>Skerton Coffee Grinder Sold Separately</li>
+</ul>
+<p><span style="visibility: hidden;">spare part grinder grind </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Grinder Parts</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/4416044400723</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>F-MSCS-TB</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/4409359007827</id>
+    <published>2020-02-25T16:14:38-07:00</published>
+    <updated>2020-02-25T16:14:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-skerton-pro-handle"/>
+    <title>Hario Skerton Pro Handle</title>
+    <s:type>Parts</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_skerton_handle.jpg?v=1582672482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Get back to grinding fresh coffee with this replacement handle for your Hario Skerton Pro!</p>
+<p>Fits Hario Skerton Pro Coffee Grinder MMCS-2B</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Parts</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/4409359007827</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>H-MSCS-2B-H</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/4409335644243</id>
+    <published>2020-02-25T15:27:45-07:00</published>
+    <updated>2020-02-25T15:27:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-handle-for-canister-coffee-mill"/>
+    <title>Hario Handle for Canister Coffee Mill</title>
+    <s:type>Parts</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_handle_canister.jpg?v=1582669668"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A replacement handle for your Hario Canister Coffee Mill!</p>
+<p>Fits Hario Canister Coffee Mill (CMHN-4)</p>
+<p><span style="visibility: hidden;">can grinder </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Parts</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/4409335644243</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>CMHN-4-H</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/4352157286483</id>
+    <published>2019-11-18T10:58:44-07:00</published>
+    <updated>2019-11-18T10:58:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-halogen-lamp-for-smart-beam-heater"/>
+    <title>Hario Halogen Lamp for Smart Beam Heater</title>
+    <s:type>Parts</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_bulb.png?v=1574099927"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wow! You've been brewing a lot of syphon coffees and the bulb in your Hario beam heater has burnt out. This replacement halogen bulb will get you back to brewing coffee the way it should be brewed.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Parts</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/4352157286483</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>HL-BGST-350U-JDE11</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/3944097185875</id>
+    <published>2019-08-30T09:24:43-06:00</published>
+    <updated>2019-08-30T09:24:43-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-slim-replacement-burr-holder"/>
+    <title>Hario Slim Replacement Burr Holder</title>
+    <s:type>Parts</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_pmss1b_700x700_3f7374a0-decb-4eae-8ffa-b4eb88083bfb.png?v=1567178687"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A replacement burr holder for the Hario Slim coffee grinder. Also fits Mini-Slim Plus, Mini-Slim Pro and Prism grinders.</p>
+<ul><li>Fits Hario Slim (MSS-1), Hario Mini-Slim Plus (MSS-1DTB), Hario Mini-Slim Pro (MMSP-1) and Hario Prism (MSA-2) Coffee Grinders</li></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Grinder Parts</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/3944097185875</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>P-MSS-1B</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/2532534714451</id>
+    <published>2019-03-02T21:37:14-07:00</published>
+    <updated>2019-03-02T21:37:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-skerton-replacement-inner-burr-shaft"/>
+    <title>Hario Skerton Replacement Inner Burr + Shaft</title>
+    <s:type>Parts</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_skerton_replacement_burr.jpg?v=1551587836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>So a rock got in your Skerton grinder and broke the inner burr. Don't worry! This replacement Inner Burr and Shaft will get your Hario Skerton Hand Coffee Grinder back to what it once was and get you back to grinding your coffee fresh.</p>
+<ul>
+<li>Stainless Steel Shaft</li>
+<li>Sharp Ceramic Inner Burr</li>
+<li>Made in China</li>
+</ul>
+<p><span style="visibility: hidden;">spare part grinder grind </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Grinder Parts</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/2532534714451</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>U-MSC-2</s:sku>
+      <s:grams>140</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/2532534550611</id>
+    <published>2019-03-02T21:36:55-07:00</published>
+    <updated>2019-03-02T21:36:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-skerton-replacement-stopper"/>
+    <title>Hario Skerton Replacement Stopper</title>
+    <s:type>Parts</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_skerton_replacement_stopper.jpg?v=1551587817"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A replacement stopper for the Hario Skerton Coffee Grinder</p>
+<p>Fits Hario Skerton Coffee Grinder</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Grinder Parts</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/2532534550611</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>SP-MSC-2</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/2532534354003</id>
+    <published>2019-03-02T21:36:31-07:00</published>
+    <updated>2019-03-02T21:36:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-skerton-replacement-hopper-cover"/>
+    <title>Hario Skerton Replacement Hopper Cover</title>
+    <s:type>Parts</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_skerton_replacement_cover.jpg?v=1551587793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It's so easy to misplace the Skerton grinder's hopper cover while you're trying to pack up the camping gear. This spare or replacement Hopper Cover will help keep your Hario Skerton Hand Coffee Grinder as functional as when you first bought it.</p>
+<ul>
+<li>Silicone Hopper Lid</li>
+<li>Made in China</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Grinder Parts</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/2532534354003</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>FH-MSCS-2TB</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/2532533960787</id>
+    <published>2019-03-02T21:36:11-07:00</published>
+    <updated>2019-03-02T21:36:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-skerton-replacement-glass-bowl"/>
+    <title>Hario Skerton Replacement Glass Bowl</title>
+    <s:type>Parts</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_skerton_replacement_bowl.jpg?v=1551587773"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Don't fret that your cat was angry with you and pushed your Skerton on the floor, breaking the glass bowl. Just get this replacement glass bowl for your grinder and get back to grinding your coffee fresh.</p>
+<ul>
+<li>Capacity: 100g</li>
+<li>Heatproof Glass</li>
+<li>Made in Japan</li>
+</ul>
+<p><span style="visibility: hidden;">spare part grinder grind </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Grinder Parts</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/2532533960787</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku>B-MSCS-2</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1477432836179</id>
+    <published>2018-10-09T14:05:38-06:00</published>
+    <updated>2018-10-09T14:05:38-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-skerton-replacement-washer-3-pack"/>
+    <title>Hario Skerton Replacement Washer 3-Pack</title>
+    <s:type>Parts</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/w-msc-2-700.jpg?v=1539115540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A pack of 3 replacement washers for the Hario Skerton coffee grinder.</p>
+<ul>
+<li>Includes 3 transparent plastic washers</li>
+<li>Fits Hario Skerton Grinder (MSCS-2)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Grinder Parts</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1477432836179</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>W-MSC-2</s:sku>
+      <s:grams>140</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1474735210579</id>
+    <published>2018-09-27T12:53:11-06:00</published>
+    <updated>2018-09-27T12:53:11-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-slim-replacement-bottle"/>
+    <title>Hario Slim Replacement Bottle</title>
+    <s:type>Parts</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/b-mss-1-550.jpg?v=1538074393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A replacement lower bottle for the Hario Slim coffee grinder.</p>
+<ul>
+<li>Polypropylene</li>
+<li>Fits Hario Slim Grinder (MSS-1)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Grinder Parts</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1474735210579</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.50</s:price>
+      <s:sku>B-MSS-1-RPLB</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1328322969683</id>
+    <published>2018-05-01T09:58:51-06:00</published>
+    <updated>2018-05-01T09:58:51-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/replacement-glass-for-harior-press"/>
+    <title>Replacement Glass for Harior Press</title>
+    <s:type>Parts</s:type>
+    <s:vendor>Hario in Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/b-th-4.jpg?v=1525190332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario in Canada<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A glass carafe that is both a coffee server and a replacement for the Hario THJ-4HSV Press.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1328322969683</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TH-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1328322936915</id>
+    <published>2018-05-01T09:57:40-06:00</published>
+    <updated>2018-05-01T09:57:40-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-thw-4-ov-spare-glass"/>
+    <title>Hario THW-4-OV Spare Glass</title>
+    <s:type>Parts</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/b-thw-4.jpg?v=1525190261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A glass carafe that is both a coffee server and a replacement for the Hario THW-4-OV Olive Wood Press.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_hario</s:tag>
+    <s:tag>typ_Hario Parts</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1328322936915</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>B-THW-4</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1328322904147</id>
+    <published>2018-05-01T09:57:30-06:00</published>
+    <updated>2018-05-01T09:57:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-thw-2-ov-spare-glass"/>
+    <title>Hario THW-2-OV Spare Glass</title>
+    <s:type>Parts</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/b-thw-2.jpg?v=1525190252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A glass carafe that is both a coffee server and a replacement for the Hario THW-2-OV Olive Wood Press.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_hario</s:tag>
+    <s:tag>typ_Hario Parts</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1328322904147</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku>B-THW-2</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/9019984780</id>
+    <published>2016-11-24T12:52:25-07:00</published>
+    <updated>2016-11-24T12:52:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-tca-3-syphon-upper-bowl"/>
+    <title>Hario TCA-3 Syphon Upper Bowl</title>
+    <s:type>Parts</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/tca_3_upper_bowl.jpg?v=1511294132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A replacement glass upper bowl for the Hario Syphon TCA-3.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_hario</s:tag>
+    <s:tag>typ_Hario Parts</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/9019984780</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>BU-TCA-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/9019984460</id>
+    <published>2016-11-24T12:52:24-07:00</published>
+    <updated>2016-11-24T12:52:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-tca-3-syphon-lower-bowl"/>
+    <title>Hario TCA-3 Syphon Lower Bowl</title>
+    <s:type>Parts</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/tca_3_lower_bowl.jpg?v=1511294162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A replacement glass lower bowl for the Hario TCA-3 Syphon.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_hario</s:tag>
+    <s:tag>typ_Hario Parts</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/9019984460</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>BL-TCA-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

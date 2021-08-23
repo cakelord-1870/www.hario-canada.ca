@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hario-canada.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hario-canada.ca/collections/hario-copper.atom"/>
+  <title>Hario Canada</title>
+  <updated>2015-07-30T06:23:52-06:00</updated>
+  <author>
+    <name>Hario Canada</name>
+  </author>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1890657027</id>
+    <published>2015-07-30T06:23:52-06:00</published>
+    <updated>2015-07-30T06:23:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-v60-02-copper-raw"/>
+    <title>Hario V60-02 Copper (Raw)</title>
+    <s:type>Manual Brewers</s:type>
+    <s:vendor>Hario Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_copper_raw_v60.jpg?v=1438577272"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario Canada<br>
+        <strong>Type: </strong>Manual Brewers<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This is a special edition Hario V60 dripper for those who really want to show off their allegiance to the ever-rewarding Hario pourover method. The copper-plated V60 dripper has a brass handle, and stainless steel interior.<br><br> We sold most of our stock of these before they even left Japan on a boat bound for our warehouse. Get your mitts on one now!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Hario V60s</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1890657027</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">95.00</s:price>
+      <s:sku>VDP-02CP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1890587139</id>
+    <published>2015-07-30T06:20:08-06:00</published>
+    <updated>2015-07-30T06:20:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-copper-kettle"/>
+    <title>Hario Copper Kettle</title>
+    <s:type>Kettles</s:type>
+    <s:vendor>Hario Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_copper_kettle.jpg?v=1438258810"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario Canada<br>
+        <strong>Type: </strong>Kettles<br>
+        <strong>Price: </strong>
+            185.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This kettle is just so perfectly... well, kettle. With some key improvements to the iconic Buono kettle such as adjusting the spout, widening the base, and increasing pouring precision. This beauty has excellent thermal conductivity, and the copper makes it anti-bacterial. Full copper body, with a brass handle, natural wood lid knob, and nickel plated interior. And a great value addition to any coffee making collection.</p>
+<meta charset="utf-8">
+<ul>
+<li>Materials: Copper body with nickel plated interior, brass handle, natural wood lid holder</li>
+<li>Compatible with direct flame heating surfaces</li>
+<li>Functional Capacity: 700ml</li>
+<li>Made in Japan</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_1.2L Capacity</s:tag>
+    <s:tag>tt_Non-Electric Kettles</s:tag>
+    <s:tag>vt_Kettles</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1890587139</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">185.00</s:price>
+      <s:sku>VKBN-90CP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

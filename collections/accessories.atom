@@ -1,0 +1,1261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hario-canada.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hario-canada.ca/collections/accessories.atom"/>
+  <title>Hario Canada</title>
+  <updated>2021-08-19T12:59:40-06:00</updated>
+  <author>
+    <name>Hario Canada</name>
+  </author>
+  <entry>
+    <id>https://www.hario-canada.ca/products/6909553770685</id>
+    <published>2021-08-19T12:59:40-06:00</published>
+    <updated>2021-08-19T12:59:40-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-conical-pitcher-100ml"/>
+    <title>Hario Conical Pitcher (100ml)</title>
+    <s:type>Milk Pitchers</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_conical_pitcher_100.jpg?v=1629399817"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Milk Pitchers<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For the sciency saucier, or the saucy scientist.</p>
+<p>A conical chemistry beaker makes for the perfect tableware pitcher.</p>
+<p>Looks great on your dining room table and is perfect for milk, syrup, oil, dressing and other sauces.</p><ul>
+<li>Capacity: 100 ml</li>
+<li>Width: 59 mm</li>
+<li>Depth: 59 mm</li>
+<li>Height: 92 mm</li>
+<li>Heatproof glass</li>
+<li>Top-rack dishwasher safe</li>
+<li>Microwave safe</li>
+<li>Made in Japan</li>
+</ul><p><span style="display: none;">beakers hari hair cone hairo lab beeker chemistry pitcher oil dressing</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_Kitchen Accessories</s:tag>
+    <s:tag>vt_Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/6909553770685</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>CP-100</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/6909553672381</id>
+    <published>2021-08-19T12:59:36-06:00</published>
+    <updated>2021-08-19T12:59:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-conical-pitcher-50ml"/>
+    <title>Hario Conical Pitcher (50ml)</title>
+    <s:type>Milk Pitchers</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_conical_pitcher_50.jpg?v=1629399747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Milk Pitchers<br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For the sciency saucier, or the saucy scientist.</p>
+<p>A conical chemistry beaker makes for the perfect tableware pitcher.</p>
+<p>Looks great on your dining room table and is perfect for milk, syrup, oil, dressing and other sauces.</p><ul>
+<li>Capacity: 50 ml</li>
+<li>Width: 50 mm</li>
+<li>Depth: 50 mm</li>
+<li>Height: 71 mm</li>
+<li>Heatproof glass</li>
+<li>Top-rack dishwasher safe</li>
+<li>Microwave safe</li>
+<li>Made in Japan</li>
+</ul><p><span style="display: none;">beakers hari hair cone hairo lab beeker chemistry pitcher oil dressing</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_Kitchen Accessories</s:tag>
+    <s:tag>vt_Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/6909553672381</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku>CP-50</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/6208883065021</id>
+    <published>2021-02-06T10:14:07-07:00</published>
+    <updated>2021-02-06T10:14:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-smart-g-kettle"/>
+    <title>Hario Smart G Kettle</title>
+    <s:type>Kettles</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/dkg-140-02.jpg?v=1612631650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Kettles<br>
+        <strong>Price: </strong>
+            132.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The kettle has a practical capacity of 1,000 ml, so you can drip it with plenty of room. An easy-to-control spout and a handle with silicone rubber that fits any grip. A commercially available thermometer can be attached to the lid.</p>
+<p>Features:</p>
+<ul>
+<li>Handle can be held two ways: with your thumb on the top of the handle, or wrapped around it.</li>
+<li>Redesigned spout for even easier pouring.</li>
+<li>Compatible with direct flame and both traditional and induction cooktops</li>
+</ul>
+<ul style="list-style-type: circle;">
+<li>Practical Capacity: 1000ml</li>
+<li>275 × 137 × 155 mm</li>
+<li>Weight: 700g</li>
+<li>Material<br> Body, Handle, Lid: Stainless<br> Knob of lid: PPT resin, Silicone rubber<br> Handle cover: Silicone rubber</li>
+</ul>
+<p><iframe src="https://www.youtube.com/embed/W5KDPETCoVk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_hario</s:tag>
+    <s:tag>tt_1l capaciry</s:tag>
+    <s:tag>vt_kettles</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/6208883065021</id>
+      <title>Black</title>
+      <s:price currency="CAD">132.00</s:price>
+      <s:sku>DKG-140-B</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/6208883065021</id>
+      <title>White</title>
+      <s:price currency="CAD">132.00</s:price>
+      <s:sku>DKG-140-W</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/6208879689917</id>
+    <published>2021-02-06T10:12:44-07:00</published>
+    <updated>2021-02-06T10:12:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-metal-drip-scale"/>
+    <title>Hario Metal Drip Scale</title>
+    <s:type>Digital Scales</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_drip_scale.jpg?v=1612631567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Digital Scales<br>
+        <strong>Price: </strong>
+            145.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The new version of the Hario Metal Drip Scale is designed to be more durable and more user friendly! This version of the popular scale and timer now has a removable weighing platform for easy cleaning. It can also be switched horizontally or vertically for flexible usage.</p>
+<p>The display is LED backlit, and the timer even charges via USB. Not that you need to charge it very often - the nickel-hydride battery gives it lasting power of up to 80 hours continuous use! The body of the scale is made for easy cleaning, with a wipeable body. And it has handy rubber feet to ensure it doesn't slip while you're weighing.</p>
+<p>The Hario Metal Drip Scale is designed to integrate seamlessly with the Hario Drip Station for a perfect home or cafe brewing setup!</p>
+<ul>
+<li>LED Backlit Display</li>
+<li>Removable Stainless Steel Weighing Plate</li>
+<li>USB Rechargeable via Micro USB Cable (Included)</li>
+<li>Capacity: 2kg</li>
+<li>Accuracy: 2-200g +/-0.1g, 200-500g +/-1g, 500g-1kg +/-3g</li>
+<li>Display Units: 2-200g: 0.1g, 200-500g: 0.5g, 500g-1kg: 1g</li>
+<li>Nickel-Metal Hydride Battery 3.6V 800mA</li>
+<li>Continuous Operating Time: 80 hours</li>
+<li>Charging Time: 4 hours</li>
+<li>Made in China</li>
+</ul>
+<p><iframe height="315" width="560" src="https://www.youtube.com/embed/lGBdS7DdM2k" allowfullscreen="allowfullscreen" frameborder="0"></iframe></p>
+<p><span style="visibility: hidden;">hari hair hairo coffee japanese time weight weigh hario drip scsle </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Digital Scales</s:tag>
+    <s:tag>vt_Hario Accessories</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/6208879689917</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">145.00</s:price>
+      <s:sku>VSTM-2000HSV</s:sku>
+      <s:grams>565</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/6208879198397</id>
+    <published>2021-02-06T10:12:33-07:00</published>
+    <updated>2021-02-06T10:12:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-v60-drip-kettle-air"/>
+    <title>Hario V60 Drip Kettle Air</title>
+    <s:type>Kettles</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_vka-35-tb_2.jpg?v=1612631556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Kettles<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Is it a measuring cup? Is it a water pitcher? No! It's the V60 Drip Kettle Air!</p>
+<p>The V60 Drip Kettle Air is a very versatile pouring kettle. The budget friendly price point will allow coffee enthusiasts that are just starting their journey down the coffee rabbit hole a very good pouring kettle for the price. The kettle has great pouring control - pouring as good as its more expensive competitors. The light-weight design makes it easy to pour with, as well as being very packable for camping and travelling. With the kettle having volume markings, you can see how much water you need for your pour-over.</p>
+<p>The V60 Drip Kettle Air allows for you to do a basic recipe where you just use the measurement marks on the kettle for your water amount, and then the provided coffee scoop from your Hario V60 for the coffee amount. Alternatively, you can scale both your water and your coffee for greater precision. When paired with the <a title="Hario Craft Coffee Maker Pour-Over Kit" href="hario-craft-coffee-maker-pourover-kit">Hario Craft Coffee Maker Pour-Over Kit</a>, you have a greater starter set for both the beginner and experienced coffee enthusiast.</p>
+<ul>
+<li>Practical Capacity: 350 ml</li>
+<li>Dimensions: W 177mm × D 78mm × H 128mm</li>
+<li>PTC Resin Body</li>
+<li>Made in Japan</li>
+<li><strong>Not Microwave or Oven Safe</strong></li>
+</ul>
+<p>The No Scale Recipe</p>
+<ol>
+<li>Turn on Kettle</li>
+<li>Grind 2 Full Scoops of Coffee (20-25 clicks on <a title="Baratza Encore" href="baratza-encore-coffee-grinder">Baratza Encore</a> or <a title="Comandante C40 Nitro Blade" href="comandante-c40-nitro-blade">Comandante C40 Nitro Blade</a>)</li>
+<li>Place V60 with Paper Filter on Top of Coffee Server</li>
+<li>Pre-wet Filter and Discard Water</li>
+<li>Add Coffee into Filter and Gently Shake Filter to Make Bed Level</li>
+<li>Fill 350ml of Hot Water into Drip Kettle Air</li>
+<li>Pour Hot Water Gently Over Coffee, Ensuring All Grounds Get Wet (50 - 100ml of Water)</li>
+<li>Let Coffee Bloom for 30-45 Seconds</li>
+<li>Continue to Pour Coffee Slowly and Gently (Full 350ml Amount)</li>
+<li>Carefully and Properly Discard Your Coffee Grounds and Filter</li>
+<li>Pour Coffee into Your Favourite Mug</li>
+<li>Enjoy!</li>
+</ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Camping</s:tag>
+    <s:tag>typ_Kettles</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/6208879198397</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>VKA-35-TB</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/6208874578109</id>
+    <published>2021-02-06T10:10:54-07:00</published>
+    <updated>2021-02-06T10:10:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-kasuya-drip-kettle"/>
+    <title>Hario Kasuya Drip Kettle</title>
+    <s:type>Kettles</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_kdk_mb_470x470_2046993c-4016-4b1b-b2d5-599bf53dbc6f.png?v=1612631457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Kettles<br>
+        <strong>Price: </strong>
+            71.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hario designed the Matte Black Kasuya Drip Kettle in collaboration with Tetsu Kasuya, the World Brewers Cup Champion in 2016.</p>
+<p>This pour-over kettle makes it easy to brew two to three cups of coffee (whether or not you share is up to you). The narrow spout maintains a steady slow stream that allows you to control agitation while you direct the flow of the water over your coffee bed, ensuring you have the potential to get the most out of your coffee. As a dedicated pouring kettle, it has an open top for quick filling from a hot water tower or traditional kettle. Now enough of that technical stuff, start pouring!</p>
+<ul>
+<li>World Brewers Cup Champion Approved</li>
+<li>Capacity: 500ml</li>
+<li>Stainless Steel</li>
+<li>Not for use on direct heat</li>
+<li>Made in China</li>
+</ul>
+<ol>
+<li>Heat Water to Desired Temperature e.g. 93°C (200°F) with Your Stove Top or Electric Kettle</li>
+<li>Prepare Coffee with Your Matching <a title="Hario V60-02 Kasuya Black Ceramic Dripper" href="hario-v60-02-kasuya-black-ceramic-dripper">Hario V60-02 Kasuya Black Ceramic Dripper</a>
+</li>
+<li>Fill Kettle with Hot Water</li>
+<li>Make Coffee Like a World Champion</li>
+<li>Enjoy Delicious Coffee</li>
+</ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_Non-Electric Kettles</s:tag>
+    <s:tag>vt_Hario Accessories</s:tag>
+    <s:tag>vt_Kettles</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/6208874578109</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">71.00</s:price>
+      <s:sku>KDK-500-MB</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/4475650441299</id>
+    <published>2020-06-03T14:36:17-06:00</published>
+    <updated>2020-06-03T14:36:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-buono-kettle-1-2l-made-in-japan"/>
+    <title>Hario Buono Kettle 1.2L Made in Japan</title>
+    <s:type>Kettles</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/vkb-120hsv-jp.jpg?v=1591216581"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Kettles<br>
+        <strong>Price: </strong>
+            72.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>So you've got a *insert your favourite manual brew method* but you can't seem to get your coffee quite as good as those pesky uber-trendy baristas at your friendly local specialty coffee house. How do they do it - is it coffee magic? Well, maybe. But there are a range of factors that contribute to an even extraction, and this is a biggie.</p>
+<p>This lovely kettle is pretty much the standard in pouring kettles for home or cafe use. It allows you to direct the flow of the water over your coffee bed and also control the pace, ensuring you have the potential to get the most out of your coffee. This kettle is also burner-friendly, so if the feeling takes you, you can bring it to the boil like old fashioned kettles. Just don't try and heat it in the microwave.</p>
+<ul>
+<li>Stainless Steel</li>
+<li>Compatible with induction and direct flame heating surfaces</li>
+<li>Practical Capacity: 800ml</li>
+<li>Full Capacity to Rim: 1.2L</li>
+<li>Height: 147mm</li>
+<li>Width: 274mm</li>
+<li>Depth: 144mm</li>
+<li>Made in Japan</li>
+</ul>
+<p><span style="visibility: hidden;">hari hair wood gas flame pourover pour-over pour over japanese japan ketle </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_1.2L Capacity</s:tag>
+    <s:tag>tt_Non-Electric Kettles</s:tag>
+    <s:tag>vt_Hario Accessories</s:tag>
+    <s:tag>vt_Kettles</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/4475650441299</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">72.00</s:price>
+      <s:sku>VKB-120HSV</s:sku>
+      <s:grams>578</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/4429211992147</id>
+    <published>2020-04-18T16:43:42-06:00</published>
+    <updated>2020-04-18T16:43:42-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-fit-kettle-silver"/>
+    <title>Hario Fit Kettle Silver</title>
+    <s:type>Kettles</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/vkf-120-hsv-700.jpg?v=1587249825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Kettles<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Fit pourover kettle from Hario is their latest design focussed on usability. The Fit is designed to fit (get it?) your hand better than any other kettle and the spout is designed for an easier, more controlled pour. With a functional capacity of 800ml, it carried enough water for the biggest of coffee pourovers and, with it's sleek design,  it'll look pretty good doing it.</p>
+<p>Features:</p>
+<ul>
+<li>Handle can be held two ways: with your thumb on the top of the handle, or wrapped around it.</li>
+<li>Redesigned spout for even easier pouring.</li>
+<li>Compatible with direct flame and both traditional and induction cooktops</li>
+</ul>
+<p>Details:</p>
+<ul>
+<li>Practical Capacity: 800ml</li>
+<li>Full Capacity (to Rim): 1200ml</li>
+<li>Compatible with all sources of heat except microwave or oven</li>
+<li>Compatible with direct flame and both traditional and induction cooktops</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_1.2L Capacity</s:tag>
+    <s:tag>tt_Non-Electric Kettles</s:tag>
+    <s:tag>vt_Hario Accessories</s:tag>
+    <s:tag>vt_Kettles</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/4429211992147</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">120.00</s:price>
+      <s:sku>VKF-120-HSV</s:sku>
+      <s:grams>578</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/4393337126995</id>
+    <published>2020-01-28T09:28:23-07:00</published>
+    <updated>2020-01-28T09:28:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-insulated-mug-300ml"/>
+    <title>Hario Insulated Mug 300ml</title>
+    <s:type>Reusable Cup</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/smf-300-b.png?v=1580228907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Reusable Cup<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It's just too easy to get distracted by kitten videos these days, and inevitably, I pour myself a cup of coffee, place my mug on my desk and the next thing I know, my coffee is colder than a dog's nose. This great new mug solves the problem. It's a classic coffee mug shape but it's dual wall stainless steel insulated and comes with a handy sliding closure lid so you can keep your coffee hotter for longer or even take it with you on a walk down to the river.</p>
+<ul>
+<li>Capacity: 300 ml</li>
+<li>Diameter: 8.8 cm</li>
+<li>Height: 10.2 cm</li>
+<li>Stainless Steel Body with Acrylic Resin Coating</li>
+<li>Polypropylene Handle and Lid</li>
+<li>Silicone Rubber Seal</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Reusable Cups</s:tag>
+    <s:tag>vt_Hario Accessories</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/4393337126995</id>
+      <title>Black</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>SMF-300-B</s:sku>
+      <s:grams>260</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/4383641894995</id>
+    <published>2020-01-13T13:40:34-07:00</published>
+    <updated>2020-01-13T13:40:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-stick-bottle-140ml"/>
+    <title>Hario Stick Bottle 140ml</title>
+    <s:type>Reusable Cup</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/ssb-140-b.jpg?v=1578948039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Reusable Cup<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It's new, it's different, and it fits in your pocket! A new double wall stainless steel thermal vacuum flask that keeps your coffee hot, but like a cheesy informercial would say, that's not all! Stick Bottle's small size and slender profile lets you slip it easily into your pocket for the ultimate in portability. Beautiful matte finishes are so <em>en vogue</em> these days and Stick Bottle takes it up a notch with a subtle grippy texture, clean lines and a coordinated stainless steel lid. Perfect for life on the go and just the right size for a <em>cortado</em>. And if your morning is so early that you need extra caffeine, Stick Bottle can hold two double shots of espresso instead of your usual brew.</p>
+<ul>
+<li>Practical Capacity: 140 ml (4.7 oz)</li>
+<li>Full Capacity (to rim): 150 ml</li>
+<li>Height: 15.6 cm</li>
+<li>Diameter: 4.6 cm</li>
+<li>Stainless Steel Body with Acrylic Resin Coating</li>
+<li>Stainless Steel Lid with Polypropylene Inner Seal</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Reusable Cup</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/4383641894995</id>
+      <title>Black</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>SSB-140-B</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/4383641894995</id>
+      <title>Grey</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>SSB-140-GR</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/4383641632851</id>
+    <published>2020-01-13T13:39:53-07:00</published>
+    <updated>2020-01-13T13:39:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-stick-bottle-350ml"/>
+    <title>Hario Stick Bottle 350ml</title>
+    <s:type>Reusable Cup</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/ssb-350-b.jpg?v=1578947997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Reusable Cup<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A new 350ml double wall stainless steel thermal vacuum flask that keeps your coffee hot and your hands holding a work of art. Beautiful matte finishes are so <em>en vogue</em> these days and Stick Bottle takes it up a notch with a subtle grippy texture, clean lines and a coordinated stainless steel lid. Perfect for life on the go and just the right size for a latte or a cup of brewed coffee.</p>
+<ul>
+<li>Practical Capacity: 350 ml (11.8 oz)</li>
+<li>Full Capacity (to rim): 370 ml</li>
+<li>Height: 16.5 cm</li>
+<li>Diameter: 6.6 cm</li>
+<li>Stainless Steel Body with Acrylic Resin Coating</li>
+<li>Stainless Steel Lid with Polypropylene Inner Seal</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Reusable Cup</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/4383641632851</id>
+      <title>Black</title>
+      <s:price currency="CAD">46.00</s:price>
+      <s:sku>SSB-350-B</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/4383641632851</id>
+      <title>Grey</title>
+      <s:price currency="CAD">46.00</s:price>
+      <s:sku>SSB-350-GR</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/3519901368403</id>
+    <published>2019-04-23T16:18:15-06:00</published>
+    <updated>2019-04-23T16:18:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-kasuya-cupping-bowl"/>
+    <title>Hario Kasuya Cupping Bowl</title>
+    <s:type>Cupping Tools</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_kasuya_cupping_bowl_pp_700x700.jpg?v=1556230012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Cupping Tools<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Eliminate the potential for any visual bias when you're cupping coffee! The Matte Black Kasuya Model cupping bowl, designed by Hario in collaboration with Tetsu Kasuya, the 2016 World Brewers Cup Champion.</p>
+<ul>
+<li>Capacity to Rim: ~260ml</li>
+<li>Capacity to Line: ~180ml</li>
+<li>Height: 56mm</li>
+<li>Diameter: 93mm</li>
+<li>Porcelain</li>
+<li>Dishwasher Safe</li>
+<li>Made in Japan</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Cupping Bowls</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/3519901368403</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.00</s:price>
+      <s:sku>KCB-260-B</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/3519801557075</id>
+    <published>2019-04-23T11:53:33-06:00</published>
+    <updated>2019-04-23T11:53:33-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-buono-kettle-700ml"/>
+    <title>Hario Buono Kettle 700ml</title>
+    <s:type>Kettles</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/vkb-70hsv-700.jpg?v=1556042016"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Kettles<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A new smaller version of the ever popular Buono Kettle!</p>
+<p>So you've got a *insert your favourite manual brew method* but you can't seem to get your coffee quite as good as those pesky uber-trendy baristas at your friendly local specialty coffee house. How do they do it - is it coffee magic? Well, maybe. But there are a range of factors that contribute to an even extraction, and this is a biggie.</p>
+<p>This lovely kettle is pretty much the standard in pouring kettles for home or cafe use. It allows you to direct the flow of the water over your coffee bed and also control the pace, ensuring you have the potential to get the most out of your coffee. This kettle is also burner-friendly, so if the feeling takes you, you can bring it to the boil like old fashioned kettles. Just don't try and heat it in the microwave.</p>
+<ul>
+<li>Stainless Steel</li>
+<li>Compatible with direct flame heating surfaces</li>
+<li>Do not microwave, do not heat in an oven</li>
+<li>Not compatible with induction</li>
+<li>Dishwasher Safe</li>
+<li>Practical Capacity: 500ml</li>
+<li>Full Capacity to Rim: 700ml</li>
+<li>Height: 14cm</li>
+<li>Diameter: 11.5cm</li>
+<li>Stainless Steel Body and Lid</li>
+<li>Phenol Resin Handle and Lid Knob</li>
+<li>Made in China</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>vt_Kettles</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/3519801557075</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku>VKB-70HSV</s:sku>
+      <s:grams>1050</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/3519799492691</id>
+    <published>2019-04-23T11:46:47-06:00</published>
+    <updated>2019-04-23T11:46:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-twin-rock-glass"/>
+    <title>Hario Twin Rock Glass</title>
+    <s:type>Coffee Glasses</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_dual_wall_glass_pp_700x700_664e0547-23f6-487f-a29d-18ce9d9a63a8.jpg?v=1556041610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Coffee Glasses<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>There's nothing quite like a dual wall cup for keeping your drink the right temperature. This elegant, "twin" wall rocks glass is a beautiful way to showcase your beverages and keep them cool. Thin and lightweight, you'll be surprised by the strength and durability of Hario's heat resistant glass.</p>
+<ul>
+<li>Dual Wall High quality Hario Heat Resistant Glass</li>
+<li>Dishwasher Safe</li>
+<li>Capacity (to Rim): 260ml/8.8oz capacity</li>
+<li>Height: 9.7cm</li>
+<li>Diameter: 8.2cm</li>
+<li>Made in Japan</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Huskee</s:tag>
+    <s:tag>vt_Hario Accessories</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/3519799492691</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.00</s:price>
+      <s:sku>TRG-260</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1565349740627</id>
+    <published>2018-11-09T13:32:59-07:00</published>
+    <updated>2018-11-09T13:32:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-v60-buono-electric-kettle"/>
+    <title>Hario V60 Buono Electric Kettle</title>
+    <s:type>Kettles</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/evkb-80u-hsv-500.jpg?v=1541795582"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Kettles<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Hario Buono kettle is pretty much the standard in pouring kettles for home or café use. An electric version of the classic V60-beehive styled kettle has been spotted abroad for some time but has been unavailable in Canada... until now! Like the original Buono Kettle, the Buono Electric Kettle features a gooseneck spout that allows you to direct the flow of the water over your coffee bed and also control the pace, ensuring you have the potential to get the most out of your coffee. This quick boiling kettle will get your water up to boil in as little as 5 minutes!</p>
+<p><em>Boiling time will vary depending on conditions of use (altitude, original water temperature, etc.)</em></p>
+<ul>
+<li>Capacity: 800ml</li>
+<li>Auto-off</li>
+<li>Boil-dry protection</li>
+<li>360-degree cordless design</li>
+<li>90cm cord with storage in base</li>
+<li>AC 120V / 60 Hz / 1000W</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_Electric Kettles</s:tag>
+    <s:tag>vt_Kettles</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1565349740627</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">95.00</s:price>
+      <s:sku>EVKB-80U-HSV</s:sku>
+      <s:grams>1120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1351970160723</id>
+    <published>2018-07-04T12:37:55-06:00</published>
+    <updated>2018-07-04T12:37:55-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-fit-kettle-matte-black"/>
+    <title>Hario Fit Kettle Matte Black</title>
+    <s:type>Kettles</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/vkf-120-mb-700.jpg?v=1530729478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Kettles<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Fit pourover kettle from Hario is their latest design focussed on usability. The Fit is designed to fit (get it?) your hand better than any other kettle and the spout is designed for an easier, more controlled pour. With a functional capacity of 800ml, it carried enough water for the biggest of coffee pourovers and, with it's sleek design,  it'll look pretty good doing it.</p>
+<p>Features:</p>
+<ul>
+<li>Handle can be held two ways: with your thumb on the top of the handle, or wrapped around it.</li>
+<li>Redesigned spout for even easier pouring.</li>
+<li>Compatible with all sources of heat except microwave or oven</li>
+<li>Compatible with direct flame and both traditional and induction cooktops</li>
+<li>Also available in silver</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_1.2L Capacity</s:tag>
+    <s:tag>tt_Non-Electric Kettles</s:tag>
+    <s:tag>vt_Hario Accessories</s:tag>
+    <s:tag>vt_Kettles</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1351970160723</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">120.00</s:price>
+      <s:sku>VKF-120-MB</s:sku>
+      <s:grams>578</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1345407582291</id>
+    <published>2018-06-06T15:19:32-06:00</published>
+    <updated>2018-06-06T15:19:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-smart-beam-heater"/>
+    <title>Hario Smart Beam Heater</title>
+    <s:type>Brewing Accessories</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_smart_beam_heater.jpg?v=1528319974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Brewing Accessories<br>
+        <strong>Price: </strong>
+            520.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A syphon guru's dream come true. This is the orchestra pit to the syphon's theatrical coffee making - finally available in North American voltage. </p>
+<p>A super powerful 350w 60Hz halogen lamp heats your water with precision, using the intuitive touch screen. You have full control over the temperature and time. </p>
+<p>Perfect for commercial use - not only is flameless heating safer, it's also sexier. And you can even chain more than one heater together for quick and efficient syphon service.</p>
+<p>Three modes:</p>
+<p><strong>Basic Mode</strong>: Control the heat, power and time<br><strong>Memory Mode</strong>: Save two settings to replicate the perfect brew<br><strong>Professional Mode</strong>: Four buttons (heat/brew/keep/stop) give you unparalleled control</p>
+<ul>
+<li>350w Halogen (E-11) Lamp</li>
+<li>AC120V 60Hz</li>
+<li>Width: 21.5cm</li>
+<li>Depth: 23.5cm</li>
+<li>Height: 16.5cm</li>
+<li>3.5" LCD Touchscreen</li>
+<li>Polycarbonate Body</li>
+<li>Stainless Steel Surface</li>
+<li>Iron Bulb Protective Cover</li>
+<li>Silica Glass Cover</li>
+<li>Heatproof Glass Reflector</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_Syphons</s:tag>
+    <s:tag>vt_Hario Accessories</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1345407582291</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">520.00</s:price>
+      <s:sku>BGST-350U</s:sku>
+      <s:grams>3040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1330877825107</id>
+    <published>2018-05-09T16:08:45-06:00</published>
+    <updated>2018-05-09T16:08:45-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-buono-kettle-matte-black"/>
+    <title>Hario Buono Kettle Matte Black</title>
+    <s:type>Kettles</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/vkb-120-mb-resize.jpg?v=1525903726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Kettles<br>
+        <strong>Price: </strong>
+            105.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>So you've got a *insert your favourite manual brew method* but you can't seem to get your coffee quite as good as those pesky uber-trendy baristas at your friendly local specialty coffee house. How do they do it - is it coffee magic? Well, maybe. But there are a range of factors that contribute to an even extraction, and this is a biggie.<br><br>This lovely kettle is pretty much the standard in pouring kettles for home or cafe use. It allows you to direct the flow of the water over your coffee bed and also control the pace, ensuring you have the potential to get the most out of your coffee. This kettle is also burner-friendly, so if the feeling takes you, you can bring it to the boil like old fashioned kettles. Just don't try and heat it in the microwave.</p>
+<p>Now with a Matte Black finish!</p>
+<ul>
+<li>Functional Capacity: 800ml</li>
+<li>Full Capacity to Rim: 1200ml</li>
+<li>Compatible with all sources of heat (except Microwave or Oven)
+<ul>
+<li>Induction, Electric, Radiant, Halogen, Sheathed or Direct Flame</li>
+</ul>
+</li>
+<li>Made in Japan</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_1.2L Capacity</s:tag>
+    <s:tag>tt_Non-Electric Kettles</s:tag>
+    <s:tag>vt_Hario Accessories</s:tag>
+    <s:tag>vt_Kettles</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1330877825107</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">105.00</s:price>
+      <s:sku>VKB-120-MB</s:sku>
+      <s:grams>578</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1330873991251</id>
+    <published>2018-05-09T15:46:23-06:00</published>
+    <updated>2018-05-09T15:46:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-kasuya-cupping-spoon"/>
+    <title>Hario Kasuya Cupping Spoon</title>
+    <s:type>Cupping Tools</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/kcs-1-mb-700.jpg?v=1525902385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Cupping Tools<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Matte Black Kasuya Model cupping spoon, designed by Hario in collaboration with Tetsu Kasuya, the 2016 World Brewers Cup Champion.</p>
+<ul>
+<li>Stainless Steel</li>
+<li>Made in Japan</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1330873991251</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>KCS-1-MB</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1330868322387</id>
+    <published>2018-05-09T15:07:13-06:00</published>
+    <updated>2018-05-09T15:07:13-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-v60-drip-dish"/>
+    <title>Hario V60 Drip Dish</title>
+    <s:type>Brewing Accessories</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/dt-1w.jpg?v=1525900035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Brewing Accessories<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The answer to the age old question: What do I do with my V60 dripper when it's done brewing but it's still dripping out a bit? Meet the V60 Drip Dish. A white ceramic drip bowl with classic Hario styling to match the white ceramic V60 dripper. Keep your coffee-making nook clean by placing the V60 dripper on top of the dish to let the last little over-extracted drips dribble out harmlessly. You can also use the dish as a place to put your teabag when it's finished steeping!</p>
+<ul>
+<li>Dishwasher Safe Porcelain</li>
+<li>Capacity: 120ml</li>
+<li>Diameter: 11.5cm</li>
+<li>Height: 4.5cm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1330868322387</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>DT-1W</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1330853707859</id>
+    <published>2018-05-09T13:13:40-06:00</published>
+    <updated>2018-05-09T13:13:40-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-skinny-canister"/>
+    <title>Hario Skinny Canister</title>
+    <s:type>Storage</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/scn-200t.jpg?v=1525893222"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Storage<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This beautiful clear glass storage canister from Hario is perfect for storing and transporting a pre-weighed dose of coffee beans. Or use it for everything from tea leaves to dried fruits or <em>Tsukemono</em> (pickled vegetables).</p>
+<ul>
+<li>Capacity: 200ml</li>
+<li>Heatproof Glass</li>
+<li>AS Resin lid with Silicone seal</li>
+<li>Made in Japan</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_Storage</s:tag>
+    <s:tag>vt_Hario Accessories</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1330853707859</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>SCN-200T</s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1330848366675</id>
+    <published>2018-05-09T12:40:18-06:00</published>
+    <updated>2018-05-09T12:40:18-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-kasuya-mini-drip-kettle"/>
+    <title>Hario Kasuya Mini Drip Kettle</title>
+    <s:type>Kettles</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/kdk-300-mb-700.jpg?v=1525891220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Kettles<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hario designed the Matte Black Kasuya Mini Drip Kettle in collaboration with Tetsu Kasuya, the World Brewers Cup Champion in 2016.</p>
+<p>This pour-over kettle makes it easy to brew one small cup of coffee at a time. The narrow spout maintains a steady slow stream that allows you to control agitation while you direct the flow of the water over your coffee bed, ensuring you have the potential to get the most out of your coffee. As a dedicated pouring kettle, it has an open top for quick filling from a hot water tower or traditional kettle.</p>
+<ul>
+<li>Capacity: 300ml</li>
+<li>Stainless Steel</li>
+<li>Not for use on direct heat</li>
+<li>Made in China</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_Non-Electric Kettles</s:tag>
+    <s:tag>vt_Hario Accessories</s:tag>
+    <s:tag>vt_Kettles</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1330848366675</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku>KDK-300-MB</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1330691833939</id>
+    <published>2018-05-08T15:48:14-06:00</published>
+    <updated>2018-05-08T15:48:14-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-matte-black-scoop"/>
+    <title>Hario Matte Black Scoop</title>
+    <s:type>Brewing Accessories</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/m-12-mb-700.jpg?v=1525816096"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Brewing Accessories<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The new Matte Black 12g coffee scoop from Hario</p>
+<ul>
+<li>Made in Japan</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_Scale Accessories</s:tag>
+    <s:tag>tt_Scoops</s:tag>
+    <s:tag>vt_Hario Accessories</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1330691833939</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>M-12-MB</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1330372378707</id>
+    <published>2018-05-07T15:43:50-06:00</published>
+    <updated>2018-05-07T15:43:50-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-z-frother"/>
+    <title>Hario Z Frother</title>
+    <s:type>Milk Pitchers</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/cz-1br-resize.jpg?v=1525729432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Milk Pitchers<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The simplest way to get hot foamed milk to turn your coffee or tea into a latte.</p>
+<p>Just fill a microwave-safe 400ml container 1/4 full, warm in the microwave and then use the Z frother to integrate air into the milk.</p>
+<ul>
+<li>Battery operated</li>
+<li>ABS Resin body</li>
+<li>Stainless Steel shaft and frother tip</li>
+<li>Made in Japan</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_Milk Frothers</s:tag>
+    <s:tag>vt_Hario Accessories</s:tag>
+    <s:tag>vt_Milk Pitchers</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1330372378707</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.00</s:price>
+      <s:sku>CZ-1BR</s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/11738532108</id>
+    <published>2017-09-28T13:50:18-06:00</published>
+    <updated>2017-09-28T13:50:18-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-water-jug-blue"/>
+    <title>Hario Water Jug Blue</title>
+    <s:type>Water Servers</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_wjn-10-ibu.jpg?v=1506628219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Water Servers<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A 1L water pitcher with a simple contemporary design using only silicone rubber and glass. We love the silicone rubber spout that can be pulled up/pushed down to open and close. Made of heatproof glass, and is dishwasher safe.</p>
+<p>Size : W92 × H320mm<br>MADE IN JAPAN</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Water Jugs</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/11738532108</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>WJN-10-IBU</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

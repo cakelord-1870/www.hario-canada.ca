@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hario-canada.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hario-canada.ca/collections/kitchen.atom"/>
+  <title>Hario Canada</title>
+  <updated>2021-02-06T10:13:10-07:00</updated>
+  <author>
+    <name>Hario Canada</name>
+  </author>
+  <entry>
+    <id>https://www.hario-canada.ca/products/6208880640189</id>
+    <published>2021-02-06T10:13:10-07:00</published>
+    <updated>2021-02-06T10:13:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-egg-cooker"/>
+    <title>Hario Egg Cooker</title>
+    <s:type>Kitchen</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_xec_m_w.png?v=1612631593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Kitchen<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This egg shaped Egg Cooker literally cooks your eggs in a hassle free way. It's simple and well-constructed design allows for back to back to back tiny scrambles. You can keep it simple and cook an egg for your breakfast sandwich to go, or you can have individual omelettes - now there's no arguing about whether or not to add green onions and mushrooms!</p>
+<p>With it's 40 second to 1 minute cook time, you can be enjoying a delicious egg snack or meal in minutes! The Hario Egg Cooker is perfect for when kitchen cooking supplies are limited in your hotel room or when you don't want to make a mess at your in-laws. All you need is a microwave, some eggs, and your Egg Cooker to get the egg breakfast party started! Now get cracking!</p>
+<ul>
+<li>Practical Capacity: One Egg</li>
+<li>Microwave Safe</li>
+<li>Heatproof Glass Body</li>
+<li>Polypropylene Lid</li>
+<li>W 94mm × D 85mm × H 107mm</li>
+<li>Made in Japan</li>
+</ul>
+<p>Basic Recipe</p>
+<ol>
+<li>Crack Egg into Egg Cooker</li>
+<li>Poke Hole in Yoke with Lid</li>
+<li>Cook Egg for 40 Seconds on 500W Power</li>
+<li>Place Egg in Prepared Breakfast Sandwich</li>
+<li>Skip Merrily On Your Way to Work as You Eat Your Breakfast Sandwich</li>
+</ol>
+<p>Tiny Omelette</p>
+<ol>
+<li>Prepare Mix-in Ingredients for Your Tiny Omelette</li>
+<li>Examples: Mushrooms, Green Onion, Bacon, Cheese, Tomatoes...Be Creative!</li>
+<li>Crack Egg into a Bowl</li>
+<li>Add Pinch of Salt and Whisk Egg</li>
+<li>Add Whisked Egg to Egg Cooker Along with a Small Pinch of Ingredients</li>
+<li>Don't Overfill Your Egg Cooker!</li>
+<li>Cook Egg for 40 Seconds to 1 Minute on 500W Power</li>
+<li>Serve Tiny Omelette on Plate</li>
+<li>Season Tiny Omelette with Pepper or Other Seasonings and Toppings of Your Choice</li>
+<li>Bon Appétit!</li>
+</ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/6208880640189</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>XEC-M-W</s:sku>
+      <s:grams>140</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/6208878018749</id>
+    <published>2021-02-06T10:12:13-07:00</published>
+    <updated>2021-02-06T10:12:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-pickle-press-slim"/>
+    <title>Hario Pickle Press Slim</title>
+    <s:type>Kitchen</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_tgs-800-t.jpg?v=1612631536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Kitchen<br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>In Japanese cuisine, fermented pickles are served with most meals. The probiotics in fermented vegetables not only help with digestion, but also add helpful good bacteria to your gut.</p>
+<p>This is an authentic Japanese Pickle Maker, or <em>Tsukemono</em> Press. The slim design allows for easier storage in your refrigerator door. To make delicious Japanese pickles quickly, simply lightly salt your thinly sliced vegetables (we recommend starting with cabbage or cucumber), and place them in the pickle press, with the heavy weight down and the lid on. Put in the fridge for a day or two, and you're ready to go! </p>
+<p>You can also experiment with other fermentations such as leaving your pickles on the counter for a few days instead of the fridge, or adding spices or rice wine vinegar. The possibilities are endless!</p>
+<ul>
+<li>Capacity: 800ml</li>
+<li>Height: 13.5cm</li>
+<li>Width: 10.2cm</li>
+<li>Heatproof Glass Body Made in Japan</li>
+<li>Borosilicate Glass Cobblestone Made in Vietnam</li>
+<li>AS Resin Lid Made in Japan</li>
+<li>Microwave Safe</li>
+<li>Dishwasher Safe</li>
+</ul>
+<ol>
+<li>Start with Cabbage or Cucumbers</li>
+<li>Wash Your Vegetables!</li>
+<li>Slice and Chop Your Vegetables</li>
+<li>Finely Sliced Vegetables Will Ferment More Quickly</li>
+<li>Season With Salt to Taste</li>
+<li>Experiment with Other Spices and Vegetables</li>
+<li>Try Adding Garlic, Onion, Radish or Carrots. Be Creative!</li>
+<li>Pack the Vegetables Tightly, Place the Weight, and Put on the Lid</li>
+<li>Place Jar in Fridge or on Counter and Check in a Few Days</li>
+<li>Enjoy Your Freshly Fermented Vegetables as a Snack or a Side!</li>
+</ol>
+<p><a href="https://www.youtube.com/watch?v=w-XdhfHYMmc&amp;feature=emb_logo" title="Hario Pickle Press Glass Slim">Make Pickles!</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_Pickle Press</s:tag>
+    <s:tag>vt_Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/6208878018749</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.00</s:price>
+      <s:sku>TGS-800-T</s:sku>
+      <s:grams>800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/6208877199549</id>
+    <published>2021-02-06T10:11:57-07:00</published>
+    <updated>2021-02-06T10:11:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-cruet-oil-sprayer-green"/>
+    <title>Hario Cruet Oil Sprayer Green</title>
+    <s:type>Kitchen</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/cruet_oil_spray_green_os60tog.jpg?v=1612631520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Kitchen<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This great looking oil spray creates healthy cooking by spraying small amounts of oil as a fine mist, helping you cook without excess oil.</p>
+<ul>
+<li>60ml capacity</li>
+<li>Height: 150ml</li>
+<li>Width: 56mm</li>
+<li>Olive green lid</li>
+</ul>
+<p><iframe src="https://www.youtube.com/embed/0L4uh4k91rA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><span style="visibility: hidden;">hari hair japanese cupric spoon measure </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_Kitchen Accessories</s:tag>
+    <s:tag>vt_Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/6208877199549</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>OS-60-TOG</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/6208876806333</id>
+    <published>2021-02-06T10:11:48-07:00</published>
+    <updated>2021-02-06T10:11:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-cruet-oil-spray-grey"/>
+    <title>Hario Cruet Oil Spray Grey</title>
+    <s:type>Kitchen</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/cruet_oil_spray_grey_os60tcgr.jpg?v=1612631511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Kitchen<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This great looking oil spray creates healthy cooking by spraying small amounts of oil as a fine mist, helping you cook without excess oil.</p>
+<ul>
+<li>60ml capacity</li>
+<li>Height: 150ml</li>
+<li>Width: 56mm</li>
+<li>Charcoal grey lid</li>
+</ul>
+<p><iframe src="https://www.youtube.com/embed/0L4uh4k91rA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><span style="visibility: hidden;">hari hair japanese cupric spoon measure </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_Kitchen Accessories</s:tag>
+    <s:tag>vt_Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/6208876806333</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>OS-60-TCGR</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1331608059987</id>
+    <published>2018-05-11T09:23:58-06:00</published>
+    <updated>2018-05-11T09:23:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-one-touch-dressing-bottle"/>
+    <title>Hario One Touch Dressing Bottle</title>
+    <s:type>Kitchen</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/odb-240-b-resize.jpg?v=1526052240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Kitchen<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Simple and beautiful glass dressing bottle with a twist cap and a push-open pouring spout. <br>Shake it, make it, pour it, store it.</p>
+<ul>
+<li>Heatproof glass</li>
+<li>Dishwasher Safe</li>
+<li>Capacity: 240ml</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1331608059987</id>
+      <title>Pale Grey</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku>ODB-240-PGR</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1330690850899</id>
+    <published>2018-05-08T15:39:18-06:00</published>
+    <updated>2018-05-08T15:39:18-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-mixing-bowl-with-spout-4-piece-set"/>
+    <title>Hario Mixing Bowl with Spout 4 Piece Set</title>
+    <s:type>Kitchen</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/kb-2518-resize.jpg?v=1525815560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Kitchen<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hario's heatproof <em>Katakuchi </em>glass mixing bowls are Microwave and Dishwasher safe. Designed with volume markings and a convenient spout to make it easier to transfer liquid contents.</p>
+<p>Mixing Bowl Set Includes:</p>
+<ul>
+<li>100ml Glass Mixing Bowl with Spout</li>
+<li>200ml Glass Mixing Bowl with Spout</li>
+<li>400ml Glass Mixing Bowl with Spout</li>
+<li>800ml Glass Mixing Bowl with Spout</li>
+</ul>
+<ul>
+<li>Microwave Safe</li>
+<li>Dishwasher Safe</li>
+<li>Heat resistant glass</li>
+<li>Not for use on direct flames</li>
+<li>Capacity: 100/200/400/800ml</li>
+<li>Made in Japan</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_Kitchen Accessories</s:tag>
+    <s:tag>vt_Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1330690850899</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>KB-2518</s:sku>
+      <s:grams>640</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/11738514444</id>
+    <published>2017-09-28T13:43:29-06:00</published>
+    <updated>2017-09-28T13:43:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-mixing-bowl-3-piece-set"/>
+    <title>Hario Mixing Bowl 3 Piece Set</title>
+    <s:type>Kitchen</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_mxp.jpg?v=1506627812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Kitchen<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hario's heatproof glass mixing bowls are Oven, Microwave and Dishwasher safe. Designed to be deeper than standard mixing bowls to make mixing and preparation even easier while cooking.</p>
+<p>Mixing Bowl Set Includes:</p>
+<ul>
+<li>900ml Glass Mixing Bowl</li>
+<li>1500ml Glass Mixing Bowl</li>
+<li>2200ml Glass Mixing Bowl</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_Kitchen Accessories</s:tag>
+    <s:tag>vt_Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/11738514444</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku>MXP-3704</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/10170297548</id>
+    <published>2017-04-03T10:06:30-06:00</published>
+    <updated>2017-04-03T10:06:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-gohangama-glass-lid-rice-cooker"/>
+    <title>Hario Gohangama Glass Lid Rice Cooker</title>
+    <s:type>Kitchen</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_gohangama_glass_lid_rice_cooker.jpg?v=1629405807"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Kitchen<br>
+        <strong>Price: </strong>
+            125.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A great looking glass lid rice cooker that cooks as good as it looks. This cooker allows you to enjoy better rice flavours from being able to cook over a direct flame, just like the traditional way.</p>
+<p>The increased thickness of the glass lid rice cooker makes flame adjustment unnecessary, which was said to be the difficult part of cooking rice over a direct flame. The whistle at the top of the lid will let you know when to turn off the heat. Once it whistles, stop the heat and let it steam for 15 minutes. Using the steam heat stored in the glass lid rice cooker will draw out flavours from the rice. Being able to see the rice cook is exciting and worry free!</p><ul>
+<li>Capacity: 150-450g of rice</li>
+<li>Width: 270 mm</li>
+<li>Depth: 230 mm</li>
+<li>Height: 210 mm</li>
+<li>Suitable for direct-flame burners</li>
+<li>Heatproof glass lid</li>
+<li>Polypropylene and Silicone lid handle is heat-safe to 140°C but should be removed for oven/microwave use or cleaning</li>
+<li>Glass lid and handle are dishwasher safe, remove handle according to included instructions prior to placing in the dishwasher</li>
+<li>Made in Japan</li>
+</ul><p><a href="https://cdn.shopify.com/s/files/1/2404/0687/files/GN-200_instruction_manual.pdf?v=1629406592" target="_blank">Hario Gohangama Glass Lid Rice Cooker Instruction Manual</a></p><ol>
+<li>Rinse your rice and drain water with a strainer. Put rice into ceramic pot and pour in water to the appropriate indication line or pour in 200ml of water per 1 cup of rice. Note: Indication lines are only for reference, adjust water amount according to the type of rice, season, etc.</li>
+<li>Soak rice in the water for 30 minutes to 1 hour</li>
+<li>Cook rice with high heat for about 8-10 minutes. As soon as it boils to the point that you hear the whistle blowing sound or if you see bubbling inside the pot - then wait for 1 minute before turning off the heat</li>
+<li>Allow the rice to settle for 15 minutes and then serve</li>
+</ol>
+<p><span style="display: none;">hari hair japanese ceramic gohan</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_Rice Cooker</s:tag>
+    <s:tag>vt_Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/10170297548</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">125.00</s:price>
+      <s:sku>GNN-200B</s:sku>
+      <s:grams>3300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/10170292492</id>
+    <published>2017-04-03T10:06:02-06:00</published>
+    <updated>2017-04-03T10:06:02-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-dressing-bottle-slim-green"/>
+    <title>Hario Dressing Bottle Slim Green</title>
+    <s:type>Kitchen</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/dressing-bottle-slim-greeen-main.jpg?v=1491235563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Kitchen<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Simple and beautiful glass dressing bottle with a twist cap and modest pouring spout. 
+Shake it, make it, pour it, store it.
+Heatproof glass
+240ml</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_Kitchen Accessories</s:tag>
+    <s:tag>vt_Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/10170292492</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>DBS-240G</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/10170291020</id>
+    <published>2017-04-03T10:05:53-06:00</published>
+    <updated>2017-04-03T10:05:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-dressing-bottle-slim-black"/>
+    <title>Hario Dressing Bottle Slim Black</title>
+    <s:type>Kitchen</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/dressing-bottle-slim-black-main.jpg?v=1491235555"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Kitchen<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Simple and beautiful glass dressing bottle with a twist cap and modest pouring spout. 
+Shake it, make it, pour it, store it.
+Heatproof glass
+240ml</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_Kitchen Accessories</s:tag>
+    <s:tag>vt_Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/10170291020</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>DBS-240B</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/10170288204</id>
+    <published>2017-04-03T10:05:37-06:00</published>
+    <updated>2017-04-03T10:05:37-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-measuring-cup-wide-200ml"/>
+    <title>Hario Measuring Cup Wide 200ml</title>
+    <s:type>Kitchen</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/measuring-cup-wide-cmjw200.jpg?v=1491235539"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Kitchen<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The feature is the measurements that can be seen from inside.
+Considering the line of sight when using a measuring cup, Hario used markings that is clearly legible when viewed from atop. This has measurement markings not just for fluids, but for sugar and flour as well. Being heat resistant, it can be used when preparing with hot water or heatin in a microwave.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_Measuring Cups</s:tag>
+    <s:tag>vt_Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/10170288204</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>CMJW-200</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/8434452038</id>
+    <published>2016-09-04T23:30:48-06:00</published>
+    <updated>2016-09-04T23:30:48-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/tsukemonoki-pickle-press"/>
+    <title>Hario Tsukemonoki Pickle Press</title>
+    <s:type>Kitchen</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Kitchen<br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This is an authentic Japanese Pickle Maker, or Tsukemono Press. To make delicious Japanese pickles quickly, simply lightly salt your thinly sliced vegetables (we recommend starting with cabbage or cucumber), and place them in the pickle press, with the heavy weight down and the lid on. Put in the fridge for a day, and you're ready to go!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_Pickle Press</s:tag>
+    <s:tag>vt_Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/8434452038</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.00</s:price>
+      <s:sku>GTK-S-R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1890633731</id>
+    <published>2015-07-30T06:22:46-06:00</published>
+    <updated>2015-07-30T06:22:46-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-smoothie-maker"/>
+    <title>Hario Smoothie Maker</title>
+    <s:type>Kitchen</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_smoothiemaker.jpg?v=1458942376"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Kitchen<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Hario Fruit Smoothie Maker is perfect for make juice or smoothies! The spiral blade crushes ice and mixes fruit in a 300ml glass. The glass body can be used for hot or cold beverages and is dishwasher and microwave safe.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_Smoothies</s:tag>
+    <s:tag>vt_Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1890633731</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>HDJ-L-R</s:sku>
+      <s:grams>305</s:grams>
+    </s:variant>
+  </entry>
+</feed>

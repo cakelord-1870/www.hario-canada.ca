@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hario-canada.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hario-canada.ca/collections/tea-brewers.atom"/>
+  <title>Hario Canada</title>
+  <updated>2021-02-06T10:11:20-07:00</updated>
+  <author>
+    <name>Hario Canada</name>
+  </author>
+  <entry>
+    <id>https://www.hario-canada.ca/products/6208875397309</id>
+    <published>2021-02-06T10:11:20-07:00</published>
+    <updated>2021-02-06T10:11:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-mizudashi-teapot-mini"/>
+    <title>Hario Mizudashi Teapot Mini</title>
+    <s:type>Tea Equipment</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_mdm-7dg.jpg?v=1612631482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Tea Equipment<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>&lt;p&gt;In Japanese, Mizudashi means "water soup". Not the most elegant name for this sleek looking cold brewer. So here at Eight Ounce Coffee, we like to call it Oishi tsumetai ocha (delicious cold tea).&lt;/p&gt;&lt;p&gt;All you do is add some tasty tea leaves to the mini canister, fill with cold water, and leave it in the fridge for a few hours or overnight. It's mess free since there is a mesh strainer in the lid leaving you with a clean cup of iced tea.&lt;/p&gt;You can serve directly from the pot!&lt;/p&gt;<br>&lt;span style="visibility: hidden;"&gt;mizudashi tea brewer mizudashi cold tea &lt;/span&gt;</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Tea Brewers</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/6208875397309</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>MDM-7DG</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/6208873922749</id>
+    <published>2021-02-06T10:10:38-07:00</published>
+    <updated>2021-02-06T10:10:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-teapot-clear"/>
+    <title>Hario Teapot Clear</title>
+    <s:type>Tea Equipment</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_fnc-45-t400x400.png?v=1612631441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Tea Equipment<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Tea Pot Clear from Hario offers a large brewing capacity - perfect for take away teas in your cafe, or a big batch of tea to enjoy while reading your new mystery novel. The filter is integrated into the lid and spout, making clean-up very easy. The beautiful clear glass allows you to watch your teas bloom and steep as you try to figure out whodunit!</p>
+<ul>
+<li>Dishwasher Safe</li>
+<li>Heatproof Glass Body. Maximum Temperature: 120°C (248°F)</li>
+<li>PTC Resin Lid and Filter. Maximum Temperature: 100°C (212°F)</li>
+<li>Silicone Rubber Gasket. Maximum Temperature: 180°C (356°F)</li>
+<li>W 130mm × D 100mm × H 123mm</li>
+<li>Glass Body and Lid Made Japan, Silicon Gasket Made in Vietnam</li>
+</ul>
+<ol>
+<li>Turn on Kettle</li>
+<li>If Using a Variable Temperature Kettle, Set Appropriate Temperature for Tea</li>
+<li>Measure Amount of Tea to be Used and Add to Tea Pot</li>
+<li>Pour Hot Water Gently and Gracefully Over Tea</li>
+<li>Set Timer and Let Tea Steep</li>
+<li>Get Snacks and Novel Ready as Tea is Steeping</li>
+<li>Pour Tea in Your Favourite Mug</li>
+<li>Make Yourself Comfy in Your Favourite Chair</li>
+<li>Let the Afternoon Slip Away as You Get Lost in Your New Mystery Novel</li>
+</ol>
+<p><a href="https://www.youtube.com/watch?v=nkwqw4lPz64" title="Clue Theatrical Trailer" target="_blank">whodunit?</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Tea Brewers</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/6208873922749</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>FNC-45-T</s:sku>
+      <s:grams>260</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/3519810142291</id>
+    <published>2019-04-23T12:14:31-06:00</published>
+    <updated>2019-04-23T12:14:31-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-heatproof-tea-pot-450ml"/>
+    <title>Hario Heatproof Tea Pot 450ml</title>
+    <s:type>Tea Equipment</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/chz-45t-700.jpg?v=1556043274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Tea Equipment<br>
+        <strong>Price: </strong>
+            52.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The latest glass tea pot from Hario, the <em>Cha Cha Kyusu "Zen"</em> is sure to be your new "go to" teapot for your favourite <em>sencha.</em> Thanks to the generously sized filter, it's easy to fill and simple to pour. The best part is that it's a snap to clean. This is the larger, 450ml version.</p>
+<ul>
+<li>Functional Capacity: 450ml</li>
+<li>Heatproof Glass Pot and Lid Made in Japan</li>
+<li>Stainless Steel Strainer</li>
+<li>Assembled in Japan</li>
+<li>Dishwasher Safe</li>
+</ul>
+<p><iframe src="https://www.youtube.com/embed/DddqA5rR6tw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Tea Brewers</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/3519810142291</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.00</s:price>
+      <s:sku>CHZ-45T</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/3519809683539</id>
+    <published>2019-04-23T12:13:50-06:00</published>
+    <updated>2019-04-23T12:13:50-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-heatproof-tea-pot-300ml"/>
+    <title>Hario Heatproof Tea Pot 300ml</title>
+    <s:type>Tea Equipment</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/chz-30t-700.jpg?v=1556043233"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Tea Equipment<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The latest glass tea pot from Hario, the <em>Cha Cha Kyusu "Zen"</em> is sure to be your new "go to" teapot for your favourite <em>sencha.</em> Thanks to the generously sized filter, it's easy to fill and simple to pour. The best part is that it's a snap to clean.</p>
+<ul>
+<li>Functional Capacity: 300ml</li>
+<li>Heatproof Glass Pot and Lid Made in Japan</li>
+<li>Stainless Steel Strainer</li>
+<li>Assembled in Japan</li>
+<li>Dishwasher Safe</li>
+</ul>
+<p><iframe src="https://www.youtube.com/embed/DddqA5rR6tw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Tea Brewers</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/3519809683539</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.00</s:price>
+      <s:sku>CHZ-30T</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1478781829203</id>
+    <published>2018-10-12T16:46:58-06:00</published>
+    <updated>2018-10-12T16:46:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-largo-35-tea-brewer"/>
+    <title>Hario Largo 35 Tea Brewer</title>
+    <s:type>Tea Equipment</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/tdr-35b-700.jpg?v=1539384420"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Tea Equipment<br>
+        <strong>Price: </strong>
+            53.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Tea Largo 35 is an exciting new tea brewer from Japanese heatproof-glass company Hario.</p>
+<p>Simply place loose tea leaves into the glass bowl, then fill with fresh hot water. The leaves have enough room to unfurl and move around while the tea brews. Then, when your desired steep time has been reached, just press the switch on the base, which releases the tea into your cup.</p>
+<p>The Largo makes it easy to either re-use your tea leaves for a second steep, or clean out the leaves quickly and easily.</p>
+<p>To set up a Hario Largo Tea Bar, all you need to add is a Hario Drip Station, and a Hario Scale/Timer.</p>
+<ul>
+<li>Practical Capacity: 350ml</li>
+<li>Dishwasher Safe</li>
+<li>Heatproof Glass Bowl</li>
+<li>Stainless Steel Ball and Filter</li>
+<li>Polypropylene Switch</li>
+<li>Silicone Rubber Base and Inner Holder</li>
+<li>AS Resin Lid</li>
+<li>All Parts Made in Japan with the exception of the Base</li>
+<li>Assembled in Japan</li>
+</ul>
+<p><span style="visibility: hidden;">hari hair hairo cha chai sencha</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Tea Brewers</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1478781829203</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>TDR-35B</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1476673044563</id>
+    <published>2018-10-05T16:17:36-06:00</published>
+    <updated>2018-10-05T16:17:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-chako-tea-mill"/>
+    <title>Hario Chaco Tea Mill</title>
+    <s:type>Tea Equipment</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/omc-1-sg-7.jpg?v=1538777859"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Tea Equipment<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Hario Chaco ceramic burr Tea mill allows you to grind tea leaves into a fine powder to make cold or hot tea, or sprinkle onto your favourite foods and desserts. Using the whole tea leaf in your foods and beverages allows you to enjoy the health benefits of green tea to the fullest!</p>
+<p>Features include:</p>
+<ul>
+<li>A mesh sifter to filter out coarse tea leaves for a fine and even powder</li>
+<li>The mesh filter also helps sprinkle your tea powder more evenly</li>
+<li>A transparent lid and catch bowl, allowing you to see your tea powder as you grind it</li>
+<li>The shape of the catch bowl makes it easy to scoop out your tea powder</li>
+</ul>
+<ul>
+<li>Practical Capacity: 10g of Tea</li>
+<li>Ceramic Burr Set</li>
+<li>Stainless Steel Handle, Shaft and Stopper</li>
+<li>Polypropylene Handle Knob, Mill Cover and Mesh Sifter</li>
+<li>MS Resin Lid and Lower Grind Container</li>
+<li>Polyacetal Locking Pin and Grind Adjustment Screw</li>
+<li>Made in Japan</li>
+</ul>
+<p><iframe src="https://www.youtube.com/embed/ESkSuOl14hc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Tea Grinder</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1476673044563</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku>OMC-1-SG</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1321806856275</id>
+    <published>2018-04-13T14:38:15-06:00</published>
+    <updated>2018-04-13T14:38:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-jumping-tea-pot-800ml"/>
+    <title>Hario Jumping Tea Pot 800ml</title>
+    <s:type>Tea Equipment</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_jumping_tea_pot_jp-4.jpg?v=1523651897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Tea Equipment<br>
+        <strong>Price: </strong>
+            74.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The secret to serving flavourful tea is to agitate the tea leaves, making the tea leaves look like they're jumping. The round form of the Jumping Tea Pot allows the tea leaves to move and "jump". This 800ml tea pot maximizes the space available for the agitation of the tea leaves by placing the strainer in the spout.</p>
+<ul>
+<li>Capacity: 800ml</li>
+<li>Dishwasher Safe</li>
+<li>Heatproof Glass made in China</li>
+<li>Strainer made in Japan</li>
+<li>Assembled in Japan</li>
+</ul>
+<p><span style="visibility: hidden;">agitating sencha genmaicha step steeping </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Tea Brewers</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1321806856275</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">74.00</s:price>
+      <s:sku>JP-4</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/11167396556</id>
+    <published>2017-06-30T14:43:14-06:00</published>
+    <updated>2017-06-30T14:43:14-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-bona-tea-kettle"/>
+    <title>Hario Bona Tea Kettle</title>
+    <s:type>Tea Equipment</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/bona_tea_kettle_btk-80-w.jpg?v=1498855395"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Tea Equipment<br>
+        <strong>Price: </strong>
+            118.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A traditional enamel tea kettle with substantial weight and an ergonomically designed handle that allows you to pour with ease but this kettle is more than meets the eye and is equipped with many features that will make your tea experience noticeably better.</p>
+<p>It has a wide pour spout (allows more air to be present in the water you are pouring resulting in "jumping of the leaves" which is essential in good tea brewing), a built in flow restrictor and the benefits of an enamel pot (steel coated in glass giving you nice aesthetics along with the absence of a metal taste).</p>
+<p> </p>
+<ul>
+<li>Can be used on any heat surface including induction</li>
+<li>800ml fill capacity</li>
+<li>Classic Traditional Design</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_Non-Electric Kettles</s:tag>
+    <s:tag>vt_Kettles</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/11167396556</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">118.00</s:price>
+      <s:sku>BTK-80-W</s:sku>
+      <s:grams>880</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/11167383628</id>
+    <published>2017-06-30T14:42:49-06:00</published>
+    <updated>2017-06-30T14:42:49-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-filter-in-tea-pitcher"/>
+    <title>Hario Filter In Tea Pitcher</title>
+    <s:type>Tea Equipment</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/filter-in_tea_pitcher_fip-90-b.jpg?v=1498855370"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Tea Equipment<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Whether it's tea, or flavoured water or sangria, do it all in this beautiful pouring and steeping bottle. The stainless steel mesh filter is set in the pouring spout with the lid so you can pour easily and enjoy. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Tea Brewers</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/11167383628</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku>FIP-90-B</s:sku>
+      <s:grams>440</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/10170286796</id>
+    <published>2017-04-03T10:05:27-06:00</published>
+    <updated>2017-04-03T10:05:27-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-hakumi-tea-pot-small"/>
+    <title>Hario HAKUMI Tea Pot Small</title>
+    <s:type>Tea Equipment</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hakumi-small-main.jpg?v=1491235529"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Tea Equipment<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Tea Brewers</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/10170286796</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>CHN-30T</s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/7331408006</id>
+    <published>2016-06-28T15:17:58-06:00</published>
+    <updated>2016-06-28T15:17:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-tea-filter-bottle-green-small"/>
+    <title>Hario Tea Filter Bottle Green Small</title>
+    <s:type>Tea Equipment</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/20160617-dsc_1138.jpg?v=1467148680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Tea Equipment<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Steep deliciously mild cold brew tea in the fridge, and put it straight on the table to serve your guests. Or kick back on the patio with your bottled summer brew. The Hario Filter in Bottle Cold Tea Brewer has a built in filter in the lid. Made from glass and silicone, with a removable lid.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Tea Brewers</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/7331408006</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku>FIB-30-OG</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1890657987</id>
+    <published>2015-07-30T06:23:55-06:00</published>
+    <updated>2015-07-30T06:23:55-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-largo-tea-brewer"/>
+    <title>Hario Largo Tea Brewer</title>
+    <s:type>Tea Equipment</s:type>
+    <s:vendor>Hario Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_largo.jpg?v=1438259037"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario Canada<br>
+        <strong>Type: </strong>Tea Equipment<br>
+        <strong>Price: </strong>
+            52.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Tea Largo is an exciting new tea brewer from Japanese heatproof-glass company Hario.
+
+Simply place loose tea leaves into the glass bowl, then fill with fresh hot water. The leaves have enough room to unfurl and move around while the tea brews. Then, when your desired steep time has been reached, just press the switch on the base, which releases the tea into your cup.
+
+The Largo makes it easy to either re-use your tea leaves for a second steep, or clean out the leaves quickly and easily.
+
+To set up a Hario Largo Tea Bar, all you need to add is a Hario Drip Station, and a Hario Scale/Timer.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Tea Brewers</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1890657987</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.00</s:price>
+      <s:sku>TDR-80B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1890647171</id>
+    <published>2015-07-30T06:23:25-06:00</published>
+    <updated>2015-07-30T06:23:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-tea-maker-chaor-4-cup"/>
+    <title>Hario Tea Maker CHAOR 4 Cup</title>
+    <s:type>Tea Equipment</s:type>
+    <s:vendor>Hario Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario Canada<br>
+        <strong>Type: </strong>Tea Equipment<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Hario CHAN teapot is designed for people who love infuser style teapots, but want to be able to pull the basket out of the pot to prevent over-steeping.
+
+
+
+You'll love the ingenious way Hario have designed the filter basket and lid. Pull up the handle, and the basket full of tea leaves plunges into the hot water. Push it back down again, and the strainer will lift up - allowing you to pour and serve directly out of the pot.
+
+
+
+Drop the strainer back into the water for a second steeping.
+
+
+
+We love this teapot because it allows for an exact steep-time. Instead of pouring hot water over the leaves, and being unsure of when to start the timer (particularly for teas that only require a 30 second steep time) - you just drop the basket in and start timing immediately.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Tea Brewers</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1890647171</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">80.00</s:price>
+      <s:sku>CHAN-4SV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1890643907</id>
+    <published>2015-07-30T06:23:17-06:00</published>
+    <updated>2015-07-30T06:23:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-kyusu-glass-tea-pot"/>
+    <title>Hario Kyusu Glass Tea Pot</title>
+    <s:type>Tea Equipment</s:type>
+    <s:vendor>Hario Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_kyusu.jpg?v=1438258999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario Canada<br>
+        <strong>Type: </strong>Tea Equipment<br>
+        <strong>Price: </strong>
+            35.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Made from Hario's signature hardwearing heatproof glass, these single serving teapots have a spiral filter in the spout to keep the tea leaves out of the cup.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Tea Brewers</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1890643907</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.50</s:price>
+      <s:sku>QSM-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1890596803</id>
+    <published>2015-07-30T06:20:37-06:00</published>
+    <updated>2015-07-30T06:20:37-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-filter-in-bottle"/>
+    <title>Hario Filter In Bottle</title>
+    <s:type>Tea Equipment</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_bottle.jpg?v=1438258839"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Tea Equipment<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Steep deliciously mild cold brew tea in the fridge, and put it straight on the table to serve your guests. Or kick back on the patio with your bottled summer brew. The Hario Filter in Bottle Cold Tea Brewer has a built in filter in the lid. Made from glass and silicone, with a removable lid.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Tea Brewers</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1890596803</id>
+      <title>White</title>
+      <s:price currency="CAD">34.00</s:price>
+      <s:sku>FIB-75-0W</s:sku>
+      <s:grams>458</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1890596803</id>
+      <title>Green</title>
+      <s:price currency="CAD">34.00</s:price>
+      <s:sku>FIB-75-OG</s:sku>
+      <s:grams>458</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1890596803</id>
+      <title>Red</title>
+      <s:price currency="CAD">34.00</s:price>
+      <s:sku>FIB-75-R</s:sku>
+      <s:grams>458</s:grams>
+    </s:variant>
+  </entry>
+</feed>

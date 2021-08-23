@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hario-canada.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hario-canada.ca/collections/filters.atom"/>
+  <title>Hario Canada</title>
+  <updated>2015-07-30T06:25:16-06:00</updated>
+  <author>
+    <name>Hario Canada</name>
+  </author>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1890681539</id>
+    <published>2015-07-30T06:25:16-06:00</published>
+    <updated>2015-07-30T06:25:16-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-cold-drip-filters"/>
+    <title>Hario Cold Drip Filters</title>
+    <s:type>Filters</s:type>
+    <s:vendor>Hario Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_coldbrew_filters.jpg?v=1438259117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario Canada<br>
+        <strong>Type: </strong>Filters<br>
+        <strong>Price: </strong>
+            7.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">50 brown unbleached filter papers suitable for use in the WDC-6 Cold Water Dripper.
+
+
+
+For use with the Hario Cold Water Drip Tower</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Hario Filters</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1890681539</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.60</s:price>
+      <s:sku>CF-WDC-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1890680707</id>
+    <published>2015-07-30T06:25:13-06:00</published>
+    <updated>2015-07-30T06:25:13-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-syphon-paper-filter-100"/>
+    <title>Hario Syphon Paper Filter 100</title>
+    <s:type>Filters</s:type>
+    <s:vendor>Hario Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/syphon_paper.jpg?v=1439312240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario Canada<br>
+        <strong>Type: </strong>Filters<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These replacement paper filters are for Hario Syphons. 100 per pack.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Hario Filters</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1890680707</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>CF-103E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1890676099</id>
+    <published>2015-07-30T06:24:57-06:00</published>
+    <updated>2015-07-30T06:24:57-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-syphon-cloth-filter-sprn"/>
+    <title>Hario Syphon Cloth Filter/Sprn</title>
+    <s:type>Filters</s:type>
+    <s:vendor>Hario Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/syphon_clothspring.jpg?v=1439312236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario Canada<br>
+        <strong>Type: </strong>Filters<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This is the entire replacement unit for Hario Syphons. Cloth filter with a metal shaper.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Hario Filters</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1890676099</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>F-103S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1890664963</id>
+    <published>2015-07-30T06:24:19-06:00</published>
+    <updated>2015-07-30T06:24:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-v60-02-white-100pack"/>
+    <title>Hario V60-02 White (100Pack)</title>
+    <s:type>Filters</s:type>
+    <s:vendor>Hario Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_white_100_v60-02_filter.jpg?v=1439312231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario Canada<br>
+        <strong>Type: </strong>Filters<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">100 pack of the classic bleached V60-02 paper filters. Gives you a sediment free clean cup of coffee.  As with any paper filter, ensure that you wash through with boiling water first to remove any remaining paper taste.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Hario Filters</s:tag>
+    <s:tag>typ_V60 Filters</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1890664963</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>VCF-02-100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1890660227</id>
+    <published>2015-07-30T06:24:02-06:00</published>
+    <updated>2015-07-30T06:24:02-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-syphon-cloth-filter-5-pk"/>
+    <title>Hario Syphon Cloth Filter 5 Pk</title>
+    <s:type>Filters</s:type>
+    <s:vendor>Hario Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/syphon_clothpack.jpg?v=1439312227"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario Canada<br>
+        <strong>Type: </strong>Filters<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These cloth replacement filters are for Hario Syphons. Five cloth filters in a pack.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Hario Filters</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1890660227</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>FS-103</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1890648323</id>
+    <published>2015-07-30T06:23:28-06:00</published>
+    <updated>2015-07-30T06:23:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-v60-02-bird-filter"/>
+    <title>Hario V60-02 Bird Filter</title>
+    <s:type>Filters</s:type>
+    <s:vendor>Hario Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_white_v60_bird.jpg?v=1439312222"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario Canada<br>
+        <strong>Type: </strong>Filters<br>
+        <strong>Price: </strong>
+            8.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A 20 pack of these beautifully kitsch bird shaped V60-02 paper filters. Gives you a sediment free clean cup of coffee.
+As with any paper filter, ensure that you wash through with boiling water first to remove any remaining paper taste. These filters are white bleached.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Hario Filters</s:tag>
+    <s:tag>typ_V60 Filters</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1890648323</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.90</s:price>
+      <s:sku>VCFL-02-20W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1890639299</id>
+    <published>2015-07-30T06:23:03-06:00</published>
+    <updated>2015-07-30T06:23:03-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-syphon-filter-paper-spng"/>
+    <title>Hario Syphon Filter Paper/Spng</title>
+    <s:type>Filters</s:type>
+    <s:vendor>Hario Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/syphon_paperspring.jpg?v=1439312214"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario Canada<br>
+        <strong>Type: </strong>Filters<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These replacement paper filters are for Hario Syphons. 50 refill papers per pack.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Hario Filters</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1890639299</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>F-103MN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1890630083</id>
+    <published>2015-07-30T06:22:32-06:00</published>
+    <updated>2015-07-30T06:22:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-v60-02-white-40-pack"/>
+    <title>Hario V60-02 White (40 Pack)</title>
+    <s:type>Filters</s:type>
+    <s:vendor>Hario Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_white_40_v60-02_filter.jpg?v=1439312210"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario Canada<br>
+        <strong>Type: </strong>Filters<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">40 pack of the classic bleached V60-02 paper filters. Gives you a sediment free clean cup of coffee.  As with any paper filter, ensure that you wash through with boiling water first to remove any remaining paper taste.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Hario Filters</s:tag>
+    <s:tag>typ_V60 Filters</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1890630083</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>VCF-02-40W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1890628035</id>
+    <published>2015-07-30T06:22:26-06:00</published>
+    <updated>2015-07-30T06:22:26-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-v60-02-brown-100pack"/>
+    <title>Hario V60-02 Brown (100Pack)</title>
+    <s:type>Filters</s:type>
+    <s:vendor>Hario Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_brown_100_v60-02_filter.jpg?v=1439312206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario Canada<br>
+        <strong>Type: </strong>Filters<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">100 pack of the brown unbleached V60-02 paper filters. Gives you a sediment free clean cup of coffee.
+As with any paper filter, ensure that you wash through with boiling water first to remove any remaining paper taste. These filters are natural brown and unbleached.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Hario Filters</s:tag>
+    <s:tag>typ_V60 Filters</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1890628035</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>VCF-02-100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1890613123</id>
+    <published>2015-07-30T06:21:33-06:00</published>
+    <updated>2015-07-30T06:21:33-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-woodneck-filter-480ml"/>
+    <title>Hario Woodneck Filter 480ml</title>
+    <s:type>Filters</s:type>
+    <s:vendor>Hario Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/woodneck.jpg?v=1438576710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario Canada<br>
+        <strong>Type: </strong>Filters<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These replacement cloth filters are for the Hario Woodneck 480ml. Three per pack.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>tt_Pourovers</s:tag>
+    <s:tag>vt_Hario Brewers</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1890613123</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>FD-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1890606595</id>
+    <published>2015-07-30T06:21:10-06:00</published>
+    <updated>2015-07-30T06:21:10-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-v60-02-brown-40-pack"/>
+    <title>Hario V60-02 Brown (40 Pack)</title>
+    <s:type>Filters</s:type>
+    <s:vendor>Hario Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/Hario_02BFilter_40Pack_1080x_23fbf5f8-cbbd-4435-8899-b5c17e1f4bee.jpg?v=1614640472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario Canada<br>
+        <strong>Type: </strong>Filters<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">40 pack of the brown unbleached V60-02 paper filters. Gives you a sediment free clean cup of coffee.
+
+
+
+As with any paper filter, ensure that you wash through with boiling water first to remove any remaining paper taste. These filters are natural brown and unbleached.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Hario Filters</s:tag>
+    <s:tag>typ_V60 Filters</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1890606595</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>VCF-02-40M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1890595779</id>
+    <published>2015-07-30T06:20:34-06:00</published>
+    <updated>2015-07-30T06:20:34-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-v60-01-white-100-pack"/>
+    <title>Hario V60-01 White (100 Pack)</title>
+    <s:type>Filters</s:type>
+    <s:vendor>Hario Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario Canada<br>
+        <strong>Type: </strong>Filters<br>
+        <strong>Price: </strong>
+            8.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Hario Filters</s:tag>
+    <s:tag>typ_V60 Filters</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1890595779</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.50</s:price>
+      <s:sku>VCF-01-100W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1890594819</id>
+    <published>2015-07-30T06:20:31-06:00</published>
+    <updated>2015-07-30T06:20:31-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-v60-01-white-40-pack"/>
+    <title>Hario V60-01 White (40 Pack)</title>
+    <s:type>Filters</s:type>
+    <s:vendor>Hario Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_white_40_v60-01_filter.jpg?v=1439312192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario Canada<br>
+        <strong>Type: </strong>Filters<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">40 pack of the white bleached V60-01 paper filters. Gives you a sediment free clean cup of coffee.<br><br>
+As with any paper filter, ensure that you wash through with boiling water first to remove any remaining paper taste. These filters are bleached white.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Hario Filters</s:tag>
+    <s:tag>typ_V60 Filters</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1890594819</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>VCF-01-40W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

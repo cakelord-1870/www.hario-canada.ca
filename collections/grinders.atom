@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hario-canada.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hario-canada.ca/collections/grinders.atom"/>
+  <title>Hario Canada</title>
+  <updated>2018-11-21T10:56:41-07:00</updated>
+  <author>
+    <name>Hario Canada</name>
+  </author>
+  <entry>
+    <id>https://www.hario-canada.ca/products/2344204664915</id>
+    <published>2018-11-21T10:56:41-07:00</published>
+    <updated>2018-11-21T10:56:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-skerton-plus-grinder"/>
+    <title>Hario Skerton Plus Grinder</title>
+    <s:type>Hand Grinders</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/mscs-2dtb-700.jpg?v=1542823004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Hand Grinders<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The classic Hario Skerton Coffee Grinder from Hario has a new upgrade. The new Skerton Plus stabilizes the ceramic burrs with a nifty little plate for a significantly more consistent grind. It's still high capacity so you can brew for everyone and it still won't break the bank.</p>
+<p>A hand grinder has always been an essential part of any travel/work kit, and this is one of the best. With a ceramic conical burr set (the bit that grinds the coffee) and a sturdy handle, this will provide you with consistently ground fresh coffee to ensure a delicious caffeinated beverage. As you can easily adjust the grind size, the Skerton's suitable for virtually any brew method, and will protect you from the evils of instant coffee, wherever you are.</p>
+<ul>
+<li>Capacity: ~100g</li>
+<li>Weight: 500g</li>
+<li>Materials:
+<ul>
+<li>Heatproof Glass Bowl Made in Japan</li>
+<li>Ceramic Burrs</li>
+<li>Stainless Steel Handle, Fixing Screw, Stopper and Grind Adjustment Nut</li>
+<li>Silicone Rubber Hopper Lid and Non-slip Cover</li>
+<li>Polypropylene Lid, Grip and Hopper</li>
+</ul>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Hand Grinders</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/2344204664915</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku>MSCS-2DTB</s:sku>
+      <s:grams>620</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/2343616249939</id>
+    <published>2018-11-20T12:37:32-07:00</published>
+    <updated>2018-11-20T12:37:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-mini-slim-plus-grinder"/>
+    <title>Hario Mini-Slim Plus Grinder</title>
+    <s:type>Hand Grinders</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/mss-1dtb-700.jpg?v=1542742654"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Hand Grinders<br>
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The perfect for travel Hario Slim Hand Coffee Grinder has a new sibling. The Mini-Slim Plus is the transparent black version of the Slim, with a re-inforced grind shaft for an even more consistent grind.</p>
+<p>This is the smaller, lower capacity ceramic burr grinder from Hario. Its thin, light construction and removable handle make it ideal for travel. The grind is fully adjustable via a locking nut on at the base of the burr (the bit that grinds the coffee), making it suitable for virtually any brew method, and coarseness is measured via clicks when turned.</p>
+<p>The burr set is kept more stable by a spring that sits on the shaft, leading to a more uniform grind.</p>
+<ul>
+<li>Capacity: ~24g</li>
+<li>Materials:
+<ul>
+<li>Nylon Washer, Hopper Shaft Cover, Pin and Grind Adjustment Nut</li>
+<li>Ceramic Inner and Outer Burr</li>
+<li>Stainless Steel Shaft, Screw Section, Spring and Handle</li>
+<li>Methacrylate Resin Cover and Bottle</li>
+<li>Polypropylene Handle Grip, Center Cap and Hopper</li>
+</ul>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Manual Coffee Grinders</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/2343616249939</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.00</s:price>
+      <s:sku>MSS-1DTB</s:sku>
+      <s:grams>339</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/2343607304275</id>
+    <published>2018-11-20T11:54:14-07:00</published>
+    <updated>2018-11-20T11:54:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-mini-slim-pro"/>
+    <title>Hario Mini-Slim Pro</title>
+    <s:type>Hand Grinders</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/mmsp-1-b.jpg?v=1542740057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Hand Grinders<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We'll forgive you for assuming this is <em>just</em> a futuristic looking Hario Slim Hand Coffee Grinder. But it's so much more. The Hario Mini-Slim Pro is your classic Slim Grinder redesigned to take your coffee grinding experience to a whole new level of satisfaction. The new stainless steel body is more durable and a subtle groove and pin lock ensures you don't spill your grounds while you're grinding. The Mini-Slim Pro also has a new handle reminiscent of the handle on the Skerton Pro, sturdier, prettier, and more comfortable to hold. The Mini-Slim Pro retains the same compact size that makes the Slim so perfect for travel.</p>
+<ul>
+<li>Capacity: ~24g</li>
+<li>Nylon Washer, Shaft cover, Inner Burr Holder and Grind Adjustment Knob</li>
+<li>Polypropylene Inner hopper</li>
+<li>Aluminum Diecast and Polypropylene Handle</li>
+<li>Stainless Steel Spring, Shaft, Grind Adjustment Nut, Outer Hopper, and Bottle</li>
+<li>Ceramic Burr Set</li>
+<li>Transparent Lid with Silicone Rubber Lid Grip</li>
+<li>Methacrylate Resin Lid</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Hand Grinders</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/2343607304275</id>
+      <title>Black</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku>MMSP-1B</s:sku>
+      <s:grams>339</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/2343607304275</id>
+      <title>Silver</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku>MMSP-1HSV</s:sku>
+      <s:grams>339</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/10170306444</id>
+    <published>2017-04-03T10:07:12-06:00</published>
+    <updated>2017-04-03T10:07:12-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-skerton-pro-grinder"/>
+    <title>Hario Skerton Pro Grinder</title>
+    <s:type>Hand Grinders</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/skerton-pro.jpg?v=1491235633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Hand Grinders<br>
+        <strong>Price: </strong>
+            79.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>With a refined new look, added features, and even more comfortable to hold, Hario has greatly improved the grinding process with this next generation Skerton grinder. Well suited to every grind style, the new Skerton Pro features an added hopper lid, easy 'male-female' handle attachment, and a grind adjustment knob at the bottom of the burr.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Hand Grinders</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/10170306444</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku>MMCS-2B</s:sku>
+      <s:grams>620</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hario-canada.ca/products/1890599299</id>
+    <published>2015-07-30T06:20:45-06:00</published>
+    <updated>2015-07-30T06:20:45-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hario-canada.ca/products/hario-coffee-mill-canister"/>
+    <title>Hario Canister Coffee Mill</title>
+    <s:type>Hand Grinders</s:type>
+    <s:vendor>Hario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0942/1790/products/hario_canister_grinder.jpg?v=1438748991"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hario<br>
+        <strong>Type: </strong>Hand Grinders<br>
+        <strong>Price: </strong>
+            62.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This traditional crank style hand grinder uses ceramic burrs to grind coffee, and has a removable and sealable glass jar underneath to store your coffee. Holds 120g of ground coffee.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sp_Hario</s:tag>
+    <s:tag>typ_Manual Coffee Grinders</s:tag>
+    <s:variant>
+      <id>https://www.hario-canada.ca/products/1890599299</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>CMHN-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
